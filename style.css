@@ -11,7 +11,7 @@ img {
     align-items: center; 
 }
 
-nav ul{
+nav a{
 	display: flex;
 	flex-direction: row;
 	text-align: right;
