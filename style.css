@@ -1,3 +1,18 @@
 h1 {
 	color: red;
 }
+
+#container {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+#text {
+    display: inline-block;
+    margin-left: 10px; /* Space between button and text */
+}
