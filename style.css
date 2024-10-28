@@ -6,11 +6,13 @@ h1 {
 }
 
 
+.image-container {
+    text-align: center; /* Center the image */
+}
+
 img {
-	display: flex;
-	justify-content: center;
-	align-items: flex-start; 
-	margin: 0; 
+    max-width: 100%; /* Make the image responsive */
+    height: auto; /* Maintain aspect ratio */
 }
 
 nav {
