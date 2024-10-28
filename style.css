@@ -5,8 +5,17 @@ h1 {
 	margin: 0; 
 }
 
+
+img {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start; 
+	margin: 0; 
+}
+
 nav {
 	display: flex;
 	flex-direction: row;
 	text-align: right;
 }
+>>>>>>> 004a9cd00c54c7a6c0b20a7d03a841830ec95c9a
