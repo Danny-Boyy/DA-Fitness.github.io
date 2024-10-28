@@ -17,5 +17,15 @@ nav ul{
 	text-align: right;
 }
 
-
+<style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start; 
+            height: 150vh; 
+            margin: 0; 
+        }
+        img {
+            max-width: 120%; 
+            height: 30%; 
         
