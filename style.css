@@ -5,13 +5,9 @@ h1 {
 	margin: 0; 
 }
 
-.image-container {
-    text-align: center; /* Center the image */
-}
-
 img {
-    max-width: 100%; /* Make the image responsive */
-    height: auto; /* Maintain aspect ratio */
+	display: block;
+	margin: 0 auto;
 }
 
 nav {
