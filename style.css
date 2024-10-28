@@ -6,8 +6,9 @@ h1 {
 }
 
 img {
-	display: block;
-	margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
 }
 
 nav ul{
