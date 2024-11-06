@@ -11,10 +11,10 @@ img {
     align-items: center; 
 }
 
-nav a{
+nav{
+	float: right;
 	display: flex;
 	flex-direction: row;
-	text-align: right;
 }
 
 body {
