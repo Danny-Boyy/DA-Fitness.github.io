@@ -15,6 +15,7 @@ img {
 	float: right;
 	display: flex;
 	flex-direction: row;
+	justify-content: right;
 }
 
 body {
