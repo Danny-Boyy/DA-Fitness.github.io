@@ -11,7 +11,7 @@ img {
     align-items: center; 
 }
 
-nav{
+.nav{
 	float: right;
 	display: flex;
 	flex-direction: row;
