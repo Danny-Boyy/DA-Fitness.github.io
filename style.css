@@ -10,9 +10,9 @@ img {
 
 .nav{
 	float: right;
-	display: flex;
+	display: grid;
 	flex-direction: row;
-	justify-content: flex-end;
+	justify-items: right;
 }
 
 h1 {
