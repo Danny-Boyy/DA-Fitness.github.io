@@ -45,8 +45,9 @@
         <ul> 
             <!-- First one -->
             <li>Who are we as a team?</li>
-            <button class="button" onclick="toggleContent()">+</button>
+            <button class="button" onclick="toggleContent('expandableContent)">+</button>
     <div class="content" id="expandableContent">
+        
         <p>We are a dynamic team of fitness enthusiasts, certified trainers, nutrition experts, 
            and wellness advocates, united by a passion for helping people lead healthier, more active lives. 
            Our mission is simple: to inspire, motivate, and empower you to achieve your fitness goals—whether 
@@ -63,8 +64,9 @@
             
             <!-- Second one -->
             <li>Are there any personal training sessions or lessons I can undergo with D&A?</li>
-            <button class="button2" onclick="toggleContent()">+</button>
+            <button class="button" onclick="toggleContent(expandableContent2)">+</button>
     <div class="content" id="expandableContent2">
+        
         <p>Yes! At D&A, we offer personalized one-on-one training sessions tailored to help you achieve your fitness goals. 
            Whether you're a beginner looking to build a strong foundation, an athlete training for performance, or someone 
            working toward specific fitness milestones, our certified trainers are here to guide you every step of the way.
@@ -79,8 +81,8 @@
     </div>
 
     <script>
-        function toggleContent() {
-            var content = document.getElementById("expandableContent");
+        function toggleContent(contentID) {
+            var content = document.getElementById(contentID);
             if (content.style.display === "none") {
                 content.style.display = "block";
             } else {
@@ -88,9 +90,9 @@
             }
         }
     </script>
-            <li>Where are the local leisure centers provided by D&A Fitness?</li> <button class="info">+</button> 
-            <li>Are there emails or telephone numbers that can be accessed for D&A Fitness?</li> <button class="info">+</button> 
-            <li>Does D&A Fitness offer any job vacancies?</li> <button class="info">+</button> 
+            <li>Where are the local leisure centers provided by D&A Fitness?</li>  
+            <li>Are there emails or telephone numbers that can be accessed for D&A Fitness?</li>  
+            <li>Does D&A Fitness offer any job vacancies?</li> 
         </ul>
         <!--Will have to change the display of all the buttons to 'inline-block' in CSS-->
 
