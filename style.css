@@ -9,9 +9,9 @@ body {
 }
 
 .navBar{
+	margin-top: -10px; /*moves it up*/
 	clear: both;
 	float: right;
-	/*display: grid;*/
 	flex-direction: row;
 	justify-items: stretch;
 }
