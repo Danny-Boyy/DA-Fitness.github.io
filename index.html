@@ -43,6 +43,7 @@
         <h3>FAQs</h3>
 
         <ul> 
+            <!-- First one -->
             <li>Who are we as a team?</li>
             <button class="button" onclick="toggleContent()">+</button>
     <div class="content" id="expandableContent">
@@ -58,21 +59,12 @@
            progress, no matter how big or small..</p>
     </div>
 
-    <script>
-        function toggleContent() {
-            var content = document.getElementById("expandableContent");
-            if (content.style.display === "none") {
-                content.style.display = "block";
-            } else {
-                content.style.display = "none";
-            }
-        }
-    </script>
+
             
-            <!-- Next one -->
+            <!-- Second one -->
             <li>Are there any personal training sessions or lessons I can undergo with D&A?</li>
             <button class="button2" onclick="toggleContent()">+</button>
-    <div class="content2" id="expandableContent2">
+    <div class="content" id="expandableContent2">
         <p>Yes! At D&A, we offer personalized one-on-one training sessions tailored to help you achieve your fitness goals. 
            Whether you're a beginner looking to build a strong foundation, an athlete training for performance, or someone 
            working toward specific fitness milestones, our certified trainers are here to guide you every step of the way.
@@ -88,7 +80,7 @@
 
     <script>
         function toggleContent() {
-            var content = document.getElementById("expandableContent2");
+            var content = document.getElementById("expandableContent");
             if (content.style.display === "none") {
                 content.style.display = "block";
             } else {
