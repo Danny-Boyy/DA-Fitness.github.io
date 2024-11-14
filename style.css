@@ -9,7 +9,7 @@ body {
 }
 
 .navBar{
-	margin-top: -10px; /*moves it up*/
+	margin-top: -10%; /*moves it up*/
 	clear: both;
 	float: right;
 	flex-direction: row;
