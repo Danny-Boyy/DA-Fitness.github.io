@@ -45,8 +45,10 @@
         <ul> 
             <!-- First one -->
             <li>Who are we as a team?</li>
-            <button class="button" onclick="toggleContent('expandableContent)">+</button>
-    <div class="content" id="expandableContent">
+            <button class="button" onclick="toggleContent('expandableContent1')">+</button>
+<div class="content" id="expandableContent1" style="display: none;">
+    <p>Lorem Ipsum for Section 1.</p>
+</div>
         
         <p>We are a dynamic team of fitness enthusiasts, certified trainers, nutrition experts, 
            and wellness advocates, united by a passion for helping people lead healthier, more active lives. 
@@ -64,8 +66,10 @@
             
             <!-- Second one -->
             <li>Are there any personal training sessions or lessons I can undergo with D&A?</li>
-            <button class="button" onclick="toggleContent(expandableContent2)">+</button>
-    <div class="content" id="expandableContent2">
+            <button class="button" onclick="toggleContent('expandableContent2')">+</button>
+<div class="content" id="expandableContent2" style="display: none;">
+    <p>Lorem Ipsum for Section 2.</p>
+</div>
         
         <p>Yes! At D&A, we offer personalized one-on-one training sessions tailored to help you achieve your fitness goals. 
            Whether you're a beginner looking to build a strong foundation, an athlete training for performance, or someone 
@@ -81,15 +85,15 @@
     </div>
 
     <script>
-        function toggleContent(contentID) {
-            var content = document.getElementById(contentID);
-            if (content.style.display === "none") {
-                content.style.display = "block";
-            } else {
-                content.style.display = "none";
-            }
+    function toggleContent(contentId) {
+        var content = document.getElementById(contentId);
+        if (content.style.display === "none") {
+            content.style.display = "block";
+        } else {
+            content.style.display = "none";
         }
-    </script>
+    }
+</script>
             <li>Where are the local leisure centers provided by D&A Fitness?</li>  
             <li>Are there emails or telephone numbers that can be accessed for D&A Fitness?</li>  
             <li>Does D&A Fitness offer any job vacancies?</li> 
