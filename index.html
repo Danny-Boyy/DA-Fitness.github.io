@@ -50,7 +50,21 @@
             <li>Does D&A Fitness offer any job vacancies?</li> <button class="info">+</button> 
         </ul>
         <!--Will have to change the display of all the buttons to 'inline-block' in CSS-->
+<button class="button" onclick="toggleContent()">Expand</button>
+    <div class="content" id="expandableContent">
+        <p>This is the expandable content.</p>
+    </div>
 
+    <script>
+        function toggleContent() {
+            var content = document.getElementById("expandableContent");
+            if (content.style.display === "none") {
+                content.style.display = "block";
+            } else {
+                content.style.display = "none";
+            }
+        }
+    </script>
     </div>
 
     <div class="clients">
