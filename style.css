@@ -13,8 +13,11 @@ body {
 	clear: both;
 	float: right;
 	flex-direction: row;
-	justify-items: strecth;
-	word-spacing: 10px;
+	/* justify-items: strecth;  */
+	/* word-spacing: 10px;  */ /*does work but with the words in it themselves too */
+
+	display:flex;
+	justify-content: space-between;
 }
 
 h1 {
