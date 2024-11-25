@@ -26,6 +26,7 @@ h1 {
 
 .client.container{
 	display: flex;
+	flex-flow: nowrap;
 	clear: both;
 	flex-direction: row;
 	justify-items: stretch;
