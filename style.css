@@ -40,7 +40,7 @@ h1 {
 }
 
 .whiteBox {
-	background-color = white;
+	background-color = #FFFFFF;
 	padding = 20px;
 	border = 1px solid #ccc;
 	position = fixed;
