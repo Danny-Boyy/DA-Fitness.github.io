@@ -38,3 +38,23 @@ h1 {
 	flex-direction: row;
 	justify-content:center;
 }
+
+.whiteBox {
+	background-color = white;
+	padding = 20px;
+	border = 1px solid #ccc;
+	position = fixed;
+	bottom = 0;
+	left = 0;
+	width = 100%
+	text-align = center;
+	z-index = 999;
+	box-sizing = border-box;
+}
+
+
+
+
+
+
+	
