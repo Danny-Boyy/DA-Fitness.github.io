@@ -29,9 +29,10 @@ h1 {
 }
 
 .client.container{
+	width: 100%;
 	display: flex;
-	flex-flow: row nowrap;
-	clear: both;
+	/* flex-flow: row nowrap; */
+	/* clear: both; */
 	flex-direction: row;
 	justify-items: stretch;
 }
