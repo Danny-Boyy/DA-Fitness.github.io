@@ -11,6 +11,7 @@ body {
 	background-color: #31c48d;
 	position: sticky;
 	top: 0.1px;
+	box-shadow: 5px 0px 0px #31c48d;
 }
 
 #logo {
@@ -42,7 +43,7 @@ h1 {
 }
 
 .client-container h3{
-	display:flex;
+	display: flex;
 	justify-items: stretch;
 	justify-content: center;
 }
