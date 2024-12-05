@@ -14,7 +14,7 @@ body {
 
 .navBar{
 	margin-top: -2.5%; /*moves it up*/
-	clear: both;
+	/* clear: both; */
 	float: right;
 	flex-direction: row;
 	justify-items: strecth; 
