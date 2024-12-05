@@ -44,7 +44,12 @@ h1 {
 	/* flex-flow: row nowrap; */
 	/* clear: both; */
 	flex-direction: row;
+	justify-content: sp;
 	justify-items: stretch;
+}
+
+.client-container h3{
+	justify-content: center;
 }
 
 .bottom {
