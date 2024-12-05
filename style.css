@@ -38,6 +38,7 @@ h1 {
 }
 
 .client-container{
+	max-height: 400px;
 	width: 100%;
 	display: block;
 	/* flex-flow: row nowrap; */
