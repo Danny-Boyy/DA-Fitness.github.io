@@ -50,9 +50,24 @@ h1 {
 	/* flex-flow: row nowrap; */
 	/* clear: both; */
 	flex-direction: row;
-	/* justify-content: space-evenly; */
+	justify-content: space-evenly;
 	justify-items: stretch;
 }
+
+#kenneth-box{
+	margin:50px;
+}
+
+#JJ-box{
+	margin:50px;
+}
+
+#Arabella-box{
+	margin:50px;
+}
+
+
+
 
 .bottom {
 	display:flex;
