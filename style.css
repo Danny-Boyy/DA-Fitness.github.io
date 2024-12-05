@@ -60,7 +60,7 @@ body {
 
 h2{
 	background-color: #fff;
-	border-radius: 30%;
+	border-radius: 12px;
 	width: 20%;
 	display: flex;
 	justify-items: stretch;
