@@ -22,17 +22,14 @@ body {
 }
 
 .nav{
-	margin-top: -2.5%; /*moves it up*/
-	width: max-content;
-	/* clear: both; */
+	margin-top: -2.5%;
+	width: max-content; 
 	display: flex;
 	flex-wrap: nowrap;
 	gap: 10px;
-
 	float: right;
 	flex-direction: row;
 	justify-items: stretch; 
-	/* justify-content: space-between; */
 	margin-right: 30px;
 }
 
@@ -65,8 +62,6 @@ h2{
 	max-height: 400px;
 	width: 100%;
 	display: flex;
-	/* flex-flow: row nowrap; */
-	/* clear: both; */
 	flex-direction: row;
 	justify-content: space-evenly;
 	justify-items: stretch;
@@ -83,8 +78,6 @@ h2{
 #Arabella-box{
 	margin:50px;
 }
-
-
 
 
 .bottom {
