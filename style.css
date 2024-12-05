@@ -6,13 +6,17 @@ body {
     margin: 0;
   }
 
+.navbar{
+	position: sticky;
+}
+
 #logo {
 	display: flex;
 	justify-content: center;
 	align-items: center; 
 }
 
-.navBar{
+.nav{
 	margin-top: -2.5%; /*moves it up*/
 	/* clear: both; */
 	display: flex;
