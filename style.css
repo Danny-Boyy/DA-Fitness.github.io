@@ -37,7 +37,7 @@ h1 {
 	margin: 0; 
 }
 
-.client.container{
+.client-container{
 	width: 100%;
 	display: block;
 	/* flex-flow: row nowrap; */
