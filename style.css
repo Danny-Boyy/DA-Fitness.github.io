@@ -27,7 +27,6 @@ body {
 	flex-wrap: nowrap;
 	gap: 10px;
 
-
 	float: right;
 	flex-direction: row;
 	justify-items: stretch; 
@@ -43,6 +42,7 @@ h1 {
 }
 
 .client-container h3{
+	display:flex;
 	justify-items: stretch;
 	justify-content: center;
 }
