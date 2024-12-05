@@ -25,7 +25,7 @@ body {
 	display: block;
 	float: right;
 	flex-direction: row;
-	justify-items: strecth; 
+	justify-items: stretch; 
 	justify-content: space-evenly;
 	margin-right: 30px;
 }
