@@ -41,6 +41,11 @@ h1 {
 	margin: 0; 
 }
 
+.client-container h3{
+	justify-items: stretch;
+	justify-content: center;
+}
+
 .client-container{
 	max-height: 400px;
 	width: 100%;
