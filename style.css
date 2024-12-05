@@ -22,7 +22,7 @@ body {
 .nav{
 	margin-top: -2.5%; /*moves it up*/
 	/* clear: both; */
-	display: flex;
+	display: block;
 	float: right;
 	flex-direction: row;
 	justify-items: strecth; 
