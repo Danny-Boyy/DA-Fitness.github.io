@@ -43,14 +43,14 @@ body {
 }
 
 .quote{
-	display: flex;
+	display: grid;
 	justify-items: stretch;
 	justify-content: center;
 }
 
 h2{
 	background-color: #fff;
-	border-radius: 50;
+	border-radius: 50%;
 	display: flex;
 	justify-items: stretch;
 	justify-content: center;
