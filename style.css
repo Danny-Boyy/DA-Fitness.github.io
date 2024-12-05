@@ -44,16 +44,12 @@ h1 {
 .client-container{
 	max-height: 400px;
 	width: 100%;
-	/* display: flex; */
+	display: flex;
 	/* flex-flow: row nowrap; */
 	/* clear: both; */
 	flex-direction: row;
 	/* justify-content: space-evenly; */
 	justify-items: stretch;
-}
-
-.client-container h3{
-	justify-content: center;
 }
 
 .bottom {
