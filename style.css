@@ -46,6 +46,7 @@ body {
 	display: grid;
 	justify-items: stretch;
 	justify-content: center;
+	justify-items: center;
 }
 
 h2{
