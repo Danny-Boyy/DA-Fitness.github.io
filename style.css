@@ -104,6 +104,14 @@ h2{
 	justify-items: stretch;
 }
 
+.faqs{
+	display: grid;
+	justify-items: stretch;
+	justify-content: center;
+	justify-items: center;
+	margin: 30px;
+}
+
 
 .bottom {
 	display:flex;
