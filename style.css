@@ -11,7 +11,7 @@ body {
 	background-color: #31c48d;
 	position: sticky;
 	top: 0.1px;
-	box-shadow: 5px 0px 0px #31c48d;
+	box-shadow: 5px 0px 0px #31c48e66;
 }
 
 #logo {
@@ -33,6 +33,13 @@ body {
 	justify-items: stretch; 
 	/* justify-content: space-between; */
 	margin-right: 30px;
+}
+
+#heroimg1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%
 }
 
 h1 {
