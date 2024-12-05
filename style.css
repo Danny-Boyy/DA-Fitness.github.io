@@ -11,7 +11,7 @@ body {
 	background-color: #31c48d;
 	position: sticky;
 	top: 0.1px;
-	box-shadow: 5px 0px 0px #31c48e66;
+	box-shadow: 5px 0px 5px #31c48e66;
 }
 
 #logo {
@@ -39,7 +39,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 100%
+	width: 100%;
 }
 
 h1 {
