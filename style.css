@@ -41,6 +41,7 @@ body {
 }
 
 .quote{
+	color: #fff;
 	display: grid;
 	justify-items: stretch;
 	justify-content: center;
@@ -48,9 +49,17 @@ body {
 	margin: 50px;
 }
 
+.quote h2{
+	text-decoration: underline;
+}
+
+.quote em{
+	font-size: 16px;
+}
+
 h2{
 	background-color: #fff;
-	border-radius: 50%;
+	border-radius: 30%;
 	width: 20%;
 	display: flex;
 	justify-items: stretch;
