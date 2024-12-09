@@ -67,7 +67,7 @@ h2{
 	flex-direction: row;
 	justify-items: stretch;
 	justify-content: center;
-	justify-items: center;
+	/* justify-items: center; */
 }
 
 .client-container{
