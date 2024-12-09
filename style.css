@@ -41,7 +41,7 @@ body {
 }
 
 .quote{
-	width: max-content;
+	/* width: max-content; */
 	display: grid;
 	/* display: flex; */
 	/* flex-direction: column; */
