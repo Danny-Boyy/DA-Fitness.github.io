@@ -49,6 +49,7 @@ body {
 }
 
 .quote h2{
+	background-color: transparent;
 	color: #fff;
 	text-decoration: underline;
 }
