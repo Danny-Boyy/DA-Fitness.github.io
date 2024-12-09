@@ -140,6 +140,9 @@ h2{
 	/* margin-top: auto; */
 	/* z-index: 999; */
 	box-sizing: border-box;
+
+	display: flex;
+	flex-direction: row;
 }
 
 
