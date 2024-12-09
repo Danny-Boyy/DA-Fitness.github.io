@@ -108,6 +108,21 @@ body {
 	justify-items: stretch;
 }
 
+.Lesson-box{
+	display: grid;
+	background-color: #fff;
+}
+
+.Membership-box{
+	display: grid;
+	background-color: #fff;
+}
+
+.PT-box{
+	display: grid;
+	background-color: #fff;
+}
+
 .FAQs{
 	display: grid;
 	justify-items: stretch;
