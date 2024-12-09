@@ -61,7 +61,7 @@ body {
 .client h2{
 	background-color: #fff;
 	border-radius: 12px;
-	width: 10%;
+	width: 12%;
 	display: flex;
 	flex-direction: row;
 	justify-items: stretch;
@@ -80,21 +80,21 @@ body {
 
 #kenneth-box{
 	background-color: #fff;
-	margin:50px;
+	margin: 50px;
 	font-size: 18px;
 	justify-content: space-between;
 }
 
 #JJ-box{
 	background-color: #fff;
-	margin:50px;
+	margin: 50px;
 	font-size: 18px;
 	justify-content: space-between;
 }
 
 #Arabella-box{
 	background-color: #fff;
-	margin:50px;
+	margin: 50px;
 	font-size: 18px;
 	justify-content: space-between;
 }
