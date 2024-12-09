@@ -124,6 +124,8 @@ body {
 }
 
 .FAQs{
+	width: 80%;
+	background-color: #fff;
 	display: grid;
 	justify-items: stretch;
 	justify-content: center;
