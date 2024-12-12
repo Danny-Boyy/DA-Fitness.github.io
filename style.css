@@ -16,7 +16,7 @@ body {
 
 #logo {
 	/* width: 250px; */
-	display: block;
+	display: inline-block;
 	/* justify-content: center; */
 	/* align-items: center;  */
 }
@@ -28,7 +28,7 @@ body {
 	display: flex;
 	flex-wrap: nowrap;
 	gap: 10px;
-	float: right;
+	float: inline-end;
 	flex-direction: row;
 	justify-items: stretch; 
 	margin-right: 30px;
