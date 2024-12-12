@@ -146,6 +146,7 @@ body {
 
 .FAQs li{
 	display: inline-block;
+	text-align: start;
 }
 
 .FAQ-content{
