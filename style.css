@@ -86,6 +86,10 @@ body {
 	justify-content: space-between;
 }
 
+#kenneth-box em{
+	padding-left: 15px;
+}
+
 #JJ-box{
 	background-color: #fff;
 	margin: 50px;
