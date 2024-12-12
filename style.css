@@ -135,7 +135,7 @@ body {
 	max-height: 320px;
 	background-color: #fff;
 	display: grid;
-	justify-items: stretch;
+	/* justify-items: stretch; */
 	/* justify-content: center; */
 	/* justify-items: center; */
 	margin: auto;
