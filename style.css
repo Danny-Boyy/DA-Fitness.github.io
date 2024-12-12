@@ -129,6 +129,7 @@ body {
 	display: grid;
 	justify-items: stretch;
 	justify-content: center;
+	justify-items: center;
 	margin: 30px;
 }
 
