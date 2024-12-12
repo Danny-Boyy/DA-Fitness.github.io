@@ -16,13 +16,13 @@ body {
 
 #logo {
 	/* width: 250px; */
-	display: inline-block;
+	display: block;
 	/* justify-content: center; */
 	/* align-items: center;  */
 }
 
 .nav{
-	display: block;
+	/* display: block; */
 	margin-top: -2.5%;
 	width: max-content;
 	display: flex;
