@@ -131,13 +131,15 @@ body {
 }
 
 .FAQs{
-	width: 90%;
+	width: 95%;
 	background-color: #fff;
 	display: grid;
 	justify-items: stretch;
 	justify-content: center;
 	justify-items: center;
 	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 
 .FAQ-content{
