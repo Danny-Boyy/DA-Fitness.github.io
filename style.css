@@ -143,6 +143,10 @@ body {
 	margin-bottom: 30px;
 }
 
+.FAQS li{
+	display: inline-block;
+}
+
 .FAQ-content{
 	justify-items: stretch;
 	justify-content: center;
