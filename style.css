@@ -28,9 +28,9 @@ body {
 	margin-top: -2.5%;
 	width: max-content;
 	display: flex;
-	flex-wrap: nowrap;
+	/* flex-wrap: nowrap; */
 	gap: 10px;
-	float: inline-end;
+	/* float: inline-end; */
 	flex-direction: row;
 	justify-items: stretch; 
 	margin-right: 30px;
@@ -49,11 +49,14 @@ body {
 	justify-items: stretch;
 	justify-content: center;
 	margin: 40px;
+
+	text-transform: uppercase;
 }
 
 .quote h2{
 	color: #fff;
 	text-decoration: underline;
+
 }
 
 .quote em{
