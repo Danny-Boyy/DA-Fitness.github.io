@@ -18,7 +18,7 @@ body {
 #logo {
 	/* width: 250px; */
 	display: inline-block;
-	flex-grow: 0.5;
+	/* flex-grow: 0.5; */
 	/* justify-content: center; */
 	/* align-items: center;  */
 }
