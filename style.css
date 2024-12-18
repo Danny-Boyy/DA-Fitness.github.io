@@ -53,12 +53,12 @@ body {
 	text-transform: uppercase;
 }
 
-.quote h2{
+.quote h1{
 	color: #fff;
 	text-decoration: underline;
 }
 
-.quote em{
+.quote h2{
 	color: #fff;
 	font-size: 20px;
 }
