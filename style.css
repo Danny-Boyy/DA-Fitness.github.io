@@ -12,11 +12,13 @@ body {
 	position: sticky;
 	top: 0.1px;
 	box-shadow: 10px 0px 5px #000;
+	display: flex;
 }
 
 #logo {
 	/* width: 250px; */
 	display: inline-block;
+	flex-grow: 0.5;
 	/* justify-content: center; */
 	/* align-items: center;  */
 }
