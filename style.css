@@ -26,14 +26,15 @@ body {
 .nav{
 	/* display: block; */
 	/* margin-top: -2.5%; */
-	width: max-content;
+	/* width: max-content; */
 	display: flex;
 	/* flex-wrap: nowrap; */
 	gap: 10px;
 	/* float: inline-end; */
-	flex-direction: row;
+	/* flex-direction: row; */
 	/* justify-items: stretch;  */
 	margin-right: 30px;
+	align-items: center;
 }
 
 #heroimg1{
