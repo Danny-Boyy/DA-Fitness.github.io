@@ -2,10 +2,12 @@ body {
     background-color: #31c48d;
 	/* overflow-x: hidden; */
     margin: 0;
+	overflow: auto;
 }
 
 ::-webkit-scrollbar-track {
-	background: #fff;
+	/* background: #fff; */
+	display: none;
 	}
 	
 /*Shrinking the scrollbar*/
