@@ -51,8 +51,7 @@ body {
 	display: flex;
 	gap: 10px;
 	margin-right: 30px;
-	align-items: center; /*everything from here works*/
-
+	align-items: center;
 	flex: end;
 }
 
@@ -181,7 +180,7 @@ body {
 
 .bottom {
 	display:flex;
-	flex-direction: column;
+	flex-direction: row;
 	justify-content: center;
 }
 
@@ -191,7 +190,7 @@ body {
 	width: 100%;
 	text-align: center;
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 }
 
 
