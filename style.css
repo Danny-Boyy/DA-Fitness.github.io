@@ -5,12 +5,13 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-	background: #faedcd;
+	background: #fff;
 	}
 	
 /*Shrinking the scrollbar*/
 ::-webkit-scrollbar {
 	width: 10px;
+	border-radius: 5px;
 }
 
 /*Removing the horizontal scrollbar*/
