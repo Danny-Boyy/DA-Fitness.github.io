@@ -25,14 +25,14 @@ body {
 
 .nav{
 	/* display: block; */
-	margin-top: -2.5%;
+	/* margin-top: -2.5%; */
 	width: max-content;
 	display: flex;
 	/* flex-wrap: nowrap; */
 	gap: 10px;
 	/* float: inline-end; */
 	flex-direction: row;
-	justify-items: stretch; 
+	/* justify-items: stretch;  */
 	margin-right: 30px;
 }
 
