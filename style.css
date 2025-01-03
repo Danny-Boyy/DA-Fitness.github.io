@@ -169,7 +169,7 @@ body {
 
 .whiteBox {
 	background-color: FFFFFF;
-	padding: 20px;
+	/* padding: 20px; */
 	border: 1px solid #ccc;
 	/* position: absolute; */
 	/* bottom: 0; */
