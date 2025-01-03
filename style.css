@@ -35,7 +35,7 @@ body {
 	/* flex-direction: row; */
 	/* justify-items: stretch;  */
 	margin-right: 30px;
-	align-items: center;
+	align-items: end;
 }
 
 #heroimg1{
