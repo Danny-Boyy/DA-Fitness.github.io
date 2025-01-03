@@ -28,6 +28,12 @@ body {
 	border-radius: 20px;
 }
 
+.solid-scrollbar-thumb::-webkit-scrollbar-thumb {
+	/* background: linear-gradient(#31c48d, #ffffff, #31c48d); */
+	background: rgba(255,255,255,0.5);
+	border-radius: 20px;
+}
+
 
 
 .navbar{
