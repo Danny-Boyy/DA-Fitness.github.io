@@ -129,6 +129,12 @@ body {
 	flex-direction: row;
 }
 
+#ken-img{
+	border: white;
+	border-width: 2%;
+	border-radius: 2%;
+}
+
 #ken-quote{
 	padding-left: 0.938rem;
 	background-color: #fff;
