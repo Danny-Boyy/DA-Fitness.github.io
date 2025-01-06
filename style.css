@@ -219,12 +219,12 @@ body {
 }
 
 .faq-button{
-	border:none;
+	border-width:none;
 	border-radius: 1rem;
 	color: white;
 	background-color: #31c48d;
 	margin-left: 80%;
-	/* font-size: 20 */
+	font-size: 2rem;
 	width:5%;
 	height:5%;
 	transition: all 0.5s;
