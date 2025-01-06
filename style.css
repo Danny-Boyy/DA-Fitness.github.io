@@ -205,14 +205,14 @@ body {
 	text-align: justify;
 }
 
-.bottom {
+.FAQs .bottom {
 	display:flex;
 	flex-direction: row;
 	justify-content: space-around;
 	margin:0rem, 0.625rem;
 }
 
-.socialimgs{
+.Socials .socialimgs{
 	margin-top: 20%;
 }
 
