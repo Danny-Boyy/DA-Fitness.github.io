@@ -192,6 +192,7 @@ body {
 }
 
 .Faqs h3{
+	justify-content: center;
 	justify-items: center;
 	background-color: #31c48d;
 	color: white;
@@ -200,18 +201,23 @@ body {
 	width:5%;
 }
 
-.faq-button{
-	border:none;
-	border-radius: 1rem;
-	color: white;
-	background-color: #31c48d;
-	margin-left: 70%;
-	size: 20%;
+.FAQs ul{
+	display: flex;
+	flex-direction: column;
 }
 
 .FAQs li{
 	display: inline-block;
 	text-align: start;
+}
+
+.faq-button{
+	border:none;
+	border-radius: 1rem;
+	color: white;
+	background-color: #31c48d;
+	margin-left: 80%;
+	font-size: 20%;
 }
 
 .FAQ-content{
