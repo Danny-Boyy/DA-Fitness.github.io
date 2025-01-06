@@ -187,6 +187,13 @@ body {
 	border-radius: 0.75rem;
 }
 
+.faq-button{
+	border:none;
+	border-radius: 1rem;
+	color: white;
+	background-color: #31c48d;
+}
+
 .FAQs li{
 	display: inline-block;
 	text-align: start;
