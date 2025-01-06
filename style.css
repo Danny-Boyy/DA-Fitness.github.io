@@ -196,7 +196,7 @@ body {
 .bottom {
 	display:flex;
 	flex-direction: row;
-	justify-content: space-between;
+	justify-content: space-around;
 	margin:0rem, 0.625rem;
 }
 
@@ -207,7 +207,7 @@ body {
 	text-align: center;
 	display: flex;
 	flex-direction: column;
-	justify-content: space-around;
+	justify-content: space-between;
 }
 
 
