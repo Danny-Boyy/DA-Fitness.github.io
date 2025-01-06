@@ -257,7 +257,8 @@ body {
 }
 
 .socialimgs{
-	margin-top: 20%;
+	margin-top: 25%;
+	justify-content: space-around;
 }
 
 .whiteBox {
