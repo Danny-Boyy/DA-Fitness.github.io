@@ -84,18 +84,20 @@ body {
 .quote h1{
 	color: #fff;
 	text-decoration: underline;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1%;
 }
 
 .quote h2{
 	color: #fff;
 	font-size: 1.25rem;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1%;
 }
 
 .client h2{
 	background-color: #fff;
 	border-radius: 0.75rem;
-	stroke: rgba(0,0,0,1);
-	stroke-width: 1%;
 	width: 22%;
 	display: flex;
 	flex-direction: row;
