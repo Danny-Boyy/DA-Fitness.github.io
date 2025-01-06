@@ -172,18 +172,63 @@ body {
 }
 
 #Lesson-box{
+	border-radius: 5px;
 	display: grid;
 	background-color: #fff;
+}
+
+#Lesson-box em{
+	margin: 10% 0;
+	text-align: center;
+	justify-content: center;
+}
+
+#Lesson-box button{
+	height:10%;
+	width:20%;
+	background-color: #31c48d;
+	color: white;
+	margin-bottom: 5%;
 }
 
 #Membership-box{
+	border-radius: 5px;
 	display: grid;
 	background-color: #fff;
 }
 
+#Membership-box em{
+	margin: 10% 0;
+	text-align: center;
+	justify-content: center;
+}
+
+#Membership-box button{
+	height:10%;
+	width:20%;
+	background-color: #31c48d;
+	color: white;
+	margin-bottom: 5%;
+}
+
 #PT-box{
+	border-radius: 5px;
 	display: grid;
 	background-color: #fff;
+}
+
+#PT-box em{
+	margin: 10% 0;
+	text-align: center;
+	justify-content: center;
+}
+
+#PT-box button{
+	height:10%;
+	width:20%;
+	background-color: #31c48d;
+	color: white;
+	margin-bottom: 5%;
 }
 
 .FAQs{
