@@ -94,7 +94,7 @@ body {
 .client h2{
 	background-color: #fff;
 	border-radius: 0.75rem;
-	stroke: rgba(0,0,0,0.1);
+	stroke: rgba(0,0,0,1);
 	stroke-width: 1%;
 	width: 22%;
 	display: flex;
