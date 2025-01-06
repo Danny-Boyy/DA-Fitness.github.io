@@ -212,6 +212,10 @@ body {
 	margin:0rem, 0.625rem;
 }
 
+.socialimgs{
+	margin-top: 20%;
+}
+
 .whiteBox {
 	background-color: white;
 	border: 0.063rem solid #ccc;
