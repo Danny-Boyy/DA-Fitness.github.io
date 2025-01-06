@@ -107,7 +107,8 @@ body {
 	/* justify-items: stretch; */
 	justify-content: center;
 	justify-items: center;
-	margin: 1.563rem;
+	margin-top: 1.563rem;
+	margin-bottom: 0.938rem;
 }
 
 .client-container{
