@@ -3,6 +3,7 @@ body {
 	/* overflow-x: hidden; */
     margin: 0;
 	overflow: auto;
+	font-family: "Roboto", serif;
 }
 
 ::-webkit-scrollbar-track {
