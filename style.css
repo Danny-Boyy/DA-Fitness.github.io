@@ -231,7 +231,7 @@ body {
 	background-color: #6dc8a7;
 }
 
-.faq-button:after{
+.faq-button::after{
 	background-color: black;
 	content:'x';
 	transform: rotate(45deg);
