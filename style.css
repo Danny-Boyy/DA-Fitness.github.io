@@ -127,6 +127,7 @@ body {
 }
 
 #ken-img{
+	border-style: solid;
 	border: white;
 	border-width: 2%;
 	border-radius: 5%;
