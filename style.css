@@ -80,8 +80,8 @@ body {
 	justify-items: center;
 	justify-content: center;
 	/* text-transform: uppercase; */
-	-webkit-text-stroke-width: 0.016rem;
-	-webkit-text-stroke-color: rgb(121, 121, 121);
+	/* -webkit-text-stroke-width: 0.016rem; */
+	/* -webkit-text-stroke-color: rgb(121, 121, 121); */
 }
 
 .quote h1{
