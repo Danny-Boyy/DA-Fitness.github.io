@@ -75,26 +75,22 @@ body {
 .quote{
 	display: grid;
 	justify-items: center;
-	justify-items: stretch;
+	/* justify-items: stretch; */
 	justify-content: center;
 	margin: 2.5rem;
 	text-transform: uppercase;
+	color: #fff;
+	-webkit-text-stroke-width: 0.031rem;
+	-webkit-text-stroke-color: rgb(121, 121, 121);
 }
 
 .quote h1{
-	color: #fff;
 	text-decoration: underline;
-	/* stroke: rgb(0,0,0); */
-	/* stroke-width: 1%; */
-	-webkit-text-stroke-width: 1px;
-	-webkit-text-stroke-color: black;
+	text-decoration-color: #fff ;
 }
 
 .quote h2{
-	color: #fff;
 	font-size: 1.25rem;
-	stroke: rgba(0,0,0,1);
-	stroke-width: 1%;
 }
 
 .client h2{
