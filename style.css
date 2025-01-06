@@ -228,9 +228,10 @@ body {
 	background-color: #6dc8a7;
 }
 
-.faq-button:active{
+.faq-button:after{
 	background-color: black;
 	content:'x';
+	transform: rotate(45deg);
 }
 
 .FAQ-content{
