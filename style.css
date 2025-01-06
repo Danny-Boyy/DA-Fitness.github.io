@@ -84,8 +84,10 @@ body {
 .quote h1{
 	color: #fff;
 	text-decoration: underline;
-	stroke: rgb(0,0,0);
-	stroke-width: 1%;
+	/* stroke: rgb(0,0,0); */
+	/* stroke-width: 1%; */
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
 }
 
 .quote h2{
