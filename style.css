@@ -212,23 +212,20 @@ body {
 }
 
 .FAQs li{
-	border-bottom: 2px solid black;
 	font-size: 20px;
 	display: inline-block;
 	text-align: start;
 }
 
 .faq-button{
-	border-width:none;
+	border-bottom: 2px solid black;
 	border-radius: 1rem;
 	color: white;
 	background-color: #31c48d;
 	margin-left: 80%;
-	font-size: 2rem;
 	width:5%;
 	height:5%;
 	transition: all 0.5s;
-	margin-bottom: 1rem;
 }
 
 .faq-button:hover{
@@ -251,11 +248,14 @@ body {
 }
 
 #help-button{
-	/* justify-items: center; */
+	border-width:none;
 	background-color: #31c48d;
 	color: white;
 	width:10%;
 	text-decoration: solid;
+	font-size: 2rem;
+	margin-bottom: 1rem;
+
 }
 
 .bottom {
