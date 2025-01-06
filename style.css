@@ -185,7 +185,7 @@ body {
 	max-height: 20rem;
 	background-color: #fff;
 	display: grid;
-	justify-items: stretch;
+	/* justify-items: stretch; */
 	margin: auto;
 	margin-top: 1.875rem;
 	margin-bottom: 1.875rem;
@@ -237,6 +237,7 @@ body {
 	justify-items: stretch;
 	justify-content: center;
 	text-align: justify;
+	max-width: 70%;
 }
 
 #help-button{
