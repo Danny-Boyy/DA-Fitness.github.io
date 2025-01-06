@@ -86,12 +86,14 @@ body {
 .quote h1{
 	margin-top: 2.5rem;
 	color: #31c48d;
+	font-size: 1.25rem;
 	/* text-decoration: underline; */
 	/* text-decoration-color: #31c48d; */
 }
 
 .quote h2{
-	font-size: 1.25rem;
+	margin-bottom: 2.5rem;
+	font-size: 1rem;
 }
 
 .client h2{
