@@ -136,6 +136,8 @@ body {
 	margin: 3.125rem;
 	font-size: 1.125rem;
 	justify-content: space-evenly;
+	display: flex;
+	flex-direction: row;
 }
 
 #Arabella-box{
@@ -143,6 +145,8 @@ body {
 	margin: 3.125rem;
 	font-size: 1.125rem;
 	justify-content: space-around;
+	display: flex;
+	flex-direction: row;
 }
 
 .option-container{
