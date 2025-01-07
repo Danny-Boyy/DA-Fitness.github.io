@@ -212,8 +212,9 @@ nav a:hover::before {
 	background-color: rgba(0,0,0, 0.4);
 	color: white;
 	font-weight: bold;
-	font-size: 2rem;
+	font-size: 1.5rem;
 	border: 3px solid white;
+	border-radius: 5px;
 	position: absolute;
 	top: 235%;
 	left: 30%;
@@ -227,7 +228,9 @@ nav a:hover::before {
 	background-color:#31c48d;
 	color:white;
 	font-weight: bold;
+	font-size: 1.6rem;
 	border: 3px solid #31c48d;
+	border-radius: 5px;
 	position: absolute;
 	top: 245%;
 	left: 30%;
@@ -279,7 +282,7 @@ nav a:hover::before {
 	width:1.5rem;
 	background-color: #31c48d;
 	color: white;
-	margin-bottom: 8%;
+	margin-bottom: 1rem;
 	transition: all 0.3s;
 }
 
@@ -414,6 +417,7 @@ nav a:hover::before {
 
 #help-button{
 	border: 0.125rem solid #31c48d;
+	border-radius: 2px;
 	background-color: #31c48d;
 	color: white;
 	width:15%;
