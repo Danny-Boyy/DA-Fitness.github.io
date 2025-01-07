@@ -265,6 +265,7 @@ body {
 	font-size: 2rem;
 	text-decoration: wavy;
 	width:8%;
+	border-radius: 0.125rem;
 }
 
 .FAQs ul{
