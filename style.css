@@ -156,19 +156,14 @@ nav a:hover::before {
 	text-align: center;
 }
 
-#ken-img{
-	/* border: 2px solid white; */
-	/* display: inline-block; */
-	/* text-decoration: none; */
-	border-radius: 5px;
-}
+#ken-img img{border-radius: 5px;}
 
 #ken-quote{
 	background-color: #fff;
 	margin-left: 5%;
 	border-radius: 5px;
 	width: 15rem;
-	/* width: 100%; */
+	text-align: justify;
 	max-height: 18.75rem;
 }
 
