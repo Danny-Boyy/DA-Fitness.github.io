@@ -432,7 +432,7 @@ nav a:hover::before {
 	margin:0rem, 0.625rem;
 }
 
-.Socials{
+.Socials a{
 	justify-content: space-between;
 	text-decoration: none;
 }
