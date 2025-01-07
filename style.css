@@ -423,7 +423,7 @@ nav a:hover::before {
 
 #help-button:hover{background-color: transparent; color:#31c48d;}
 
-#help-button:active{background-color: transparent;color:black;}
+#help-button:active{background-color: transparent;color:black; border:2px solid black;}
 
 .bottom {
 	display:flex;
