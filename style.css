@@ -222,7 +222,8 @@ nav a:hover::before {
 	text-align: center;
 }
 
-#herotxt button{
+#herotxt a{
+	text-decoration: none;
 	background-color:#31c48d;
 	color:white;
 	font-weight: bold;
@@ -303,18 +304,21 @@ nav a:hover::before {
 	justify-content: center;
 }
 
-#Membership-box button{
+#Membership-box a{
 	border:2px solid #31c48d;
+	border-radius: 5px;
+	text-decoration: none;
 	font-size: 1.25rem;
+	width:1.5rem;
 	background-color: #31c48d;
 	color: white;
-	margin-bottom: 5%;
+	margin-bottom: 8%;
 	transition: all 0.3s;
 }
 
-#Membership-box button:hover{background-color: white; color:#31c48d;}
+#Membership-box a:hover{background-color: white; color:#31c48d;}
 
-#Membership-box button:active{color:black; border:2px solid black;}
+#Membership-box a:active{color:black; border:2px solid black;}
 
 #PT-box{
 	border: 1px solid white;
@@ -333,18 +337,21 @@ nav a:hover::before {
 	justify-content: center;
 }
 
-#PT-box button{
+#PT-box a{
 	border:2px solid #31c48d;
+	border-radius: 5px;
+	text-decoration: none;
 	font-size: 1.25rem;
+	width:1.5rem;
 	background-color: #31c48d;
 	color: white;
-	margin-bottom: 5%;
+	margin-bottom: 8%;
 	transition: all 0.3s;
 }
 
-#PT-box button:hover{background-color: white; color:#31c48d;}
+#PT-box a:hover{background-color: white; color:#31c48d;}
 
-#PT-box button:active{color:black; border:2px solid black;}
+#PT-box a:active{color:black; border:2px solid black;}
 
 .FAQs{
 	width: 95%;
