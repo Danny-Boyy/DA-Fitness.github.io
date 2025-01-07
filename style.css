@@ -248,7 +248,8 @@ nav a:hover::before {
 	display: grid;
 	background-color: #fff;
 	/* width: 10rem; */
-	width: 19%;
+	justify-content: center;
+	width: 20%;
 }
 
 #lesson-box img{border-radius: 5px;}
