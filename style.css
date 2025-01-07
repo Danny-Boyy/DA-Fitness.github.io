@@ -156,7 +156,7 @@ nav a:hover::before {
 	text-align: center;
 }
 
-#ken-img img{border-radius: 5px;}
+#ken-img img{border:2px solid white;}
 
 #ken-quote{
 	background-color: #fff;
