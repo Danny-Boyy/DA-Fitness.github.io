@@ -68,6 +68,30 @@ body {
 	margin-right: 1.875rem;
 	align-items: center;
 	flex: end;
+
+	color: #fff;
+	text-decoration: none;
+}
+
+.nav:hover{
+	color: #fff;
+}
+
+.nav::before{
+	content: "";
+	position: absolute;
+	display: block;
+	width: 100%;
+	height: 2px;
+	bottom: 0;
+	left: 0;
+	background-color: #fff;
+	transform: scaleX(0);
+	transition: transform 0.3s ease
+}
+
+nav:hover::before {
+	transform: scaleX(1);
 }
 
 #heroimg1{
