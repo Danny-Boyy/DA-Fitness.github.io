@@ -210,26 +210,54 @@ nav a:hover::before {
 }
 
 #heroimg2txt p{
-	font-size: 1rem;
+	/* font-size: 1rem;
 	max-width: 20%;
 	color: white;
 	text-align: justify;
-	/* z-index: 1; */
+	 z-index: 1; 
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%); */
+
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+	color: white;
+	font-weight: bold;
+	border: 3px solid #f1f1f1;
+	position: absolute;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+	z-index: 2;
+	width: 80%;
+	padding: 20px;
+	text-align: center;
 }
 
 #heroimg2txt button{
-	border: 0.125rem solid #31c48d;
+	/* border: 0.125rem solid #31c48d;
 	border-radius: 0.125rem;
 	color:#31c48d;
 	background-color: transparent;
 	font-size: 1.25rem;
-	/* z-index: 1; */
+	z-index: 1; 
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%); */
+
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+	color: white;
+	font-weight: bold;
+	border: 3px solid #f1f1f1;
+	position: absolute;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+	z-index: 2;
+	width: 80%;
+	padding: 20px;
+	text-align: center;
 }
 
 .option-container{
