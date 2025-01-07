@@ -407,10 +407,10 @@ nav a:hover::before {
 
 .Socials{
 	justify-content: space-between;
+	text-decoration: none;
 }
 
 .socialimgs{
-	text-decoration: none;
 	margin-top: 25%;
 }
 
