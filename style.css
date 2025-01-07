@@ -172,6 +172,8 @@ nav a:hover::before {
 	max-height: 18.75rem;
 }
 
+#ken-quote h3{color:#31c48d;}
+
 #JJ-box{
 	background-color: #fff;
 	margin: 3.125rem;
@@ -181,6 +183,8 @@ nav a:hover::before {
 	flex-direction: row;
 }
 
+#JJ-quote h3{color:#31c48d;}
+
 #Arabella-box{
 	background-color: #fff;
 	margin: 3.125rem;
@@ -189,6 +193,8 @@ nav a:hover::before {
 	display: flex;
 	flex-direction: row;
 }
+
+#Arabella-quote h3{color:#31c48d;}
 
 #heroimg2{
 	width:100%;
