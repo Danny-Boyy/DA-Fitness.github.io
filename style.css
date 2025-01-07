@@ -265,7 +265,6 @@ body {
 }
 
 .faq-button{
-	border-bottom: 2px solid black;
 	border-radius: 1rem;
 	color: white;
 	background-color: #31c48d;
@@ -283,6 +282,10 @@ body {
 	background-color: black;
 	/* content:'x'; */
 	transform: rotate(45deg);
+}
+
+.FAQ-header{
+	border-bottom: 2px solid black;
 }
 
 .FAQ-content{
