@@ -314,12 +314,6 @@ nav:hover::before {
 	background-color: #6dc8a7;
 }
 
-.faq-button::after{
-	background-color: black;
-	/* content:'x'; */
-	transform: rotate(45deg);
-}
-
 .FAQ-header{
 	margin-top: 3%;
 	border-bottom: 2px solid black;
@@ -337,6 +331,7 @@ nav:hover::before {
 
 #help-button{
 	border: none;
+	border-radius: 0.125rem;
 	background-color: #31c48d;
 	color: white;
 	width:15%;
@@ -344,6 +339,12 @@ nav:hover::before {
 	font-size: 1.5rem;
 	margin-top: 1.5rem;
 	margin-bottom: 1rem;
+}
+
+#help-button:hover{
+	background-color: transparent;
+	color:#31c48d;
+	border: 0.125rem solid #31c48d;
 }
 
 .bottom {
