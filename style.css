@@ -316,13 +316,17 @@ nav a:hover::before {
 }
 
 #Membership-box button{
-	border:none;
-	border-radius: 2px;
-	font-size: 1rem;
+	border:2px solid #31c48d;
+	font-size: 1.25rem;
 	background-color: #31c48d;
 	color: white;
 	margin-bottom: 5%;
+	transition: all 0.3s;
 }
+
+#Membership-box button:hover{background-color: white; color:#31c48d;}
+
+#Membership-box button:active{color:black; border:2px solid black;}
 
 #PT-box{
 	border: 1px solid white;
@@ -342,13 +346,17 @@ nav a:hover::before {
 }
 
 #PT-box button{
-	border:none;
-	border-radius: 2px;
-	font-size: 1rem;
+	border:2px solid #31c48d;
+	font-size: 1.25rem;
 	background-color: #31c48d;
 	color: white;
 	margin-bottom: 5%;
+	transition: all 0.3s;
 }
+
+#PT-box button:hover{background-color: white; color:#31c48d;}
+
+#PT-box button:active{color:black; border:2px solid black;}
 
 .FAQs{
 	width: 95%;
