@@ -383,6 +383,7 @@ nav a:hover::before {
 }
 
 #help-button:active{
+	transition: all 0.1s;
 	background-color: transparent;
 	color:#31c48d;
 	border: 0.25rem solid #31c48d;
