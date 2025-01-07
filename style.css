@@ -222,7 +222,7 @@ nav a:hover::before {
 	font-weight: bold;
 	border: 3px solid #f1f1f1;
 	position: absolute;
-	top: 230%;
+	top: 235%;
 	left: 30%;
 	transform: translate(-50%, -50%);
 	/* z-index: 2; */
@@ -232,17 +232,16 @@ nav a:hover::before {
 }
 
 #herotxt button{
-	background-color: rgb(0,0,0); /* Fallback color */
-	background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
-	color: white;
+	background-color:#31c48d; /* Black w/opacity/see-through */
+	color:white;
 	font-weight: bold;
-	border: 3px solid #f1f1f1;
+	border: 3px solid #31c48d;
 	position: absolute;
-	top: 240%;
+	top: 245%;
 	left: 30%;
 	transform: translate(-50%, -50%);
 	width: 30%;
-	padding: 20px;
+	/* padding: 20px; */
 	text-align: center;
 }
 
