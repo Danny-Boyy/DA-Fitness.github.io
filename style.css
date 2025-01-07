@@ -278,7 +278,7 @@ nav a:hover::before {
 	width:1.5rem;
 	background-color: #31c48d;
 	color: white;
-	padding-bottom: 5%;
+	margin-bottom: 5%;
 	transition: all 0.3s;
 }
 
