@@ -290,6 +290,8 @@ nav a:hover::before {
 
 #lesson-box a:active{color:black; border:2px solid black;}
 
+#lesson-box p{color: transparent; margin-top: 3%;}
+
 #Membership-box{
 	border: 1px solid white;
 	border-radius: 5px;
@@ -323,6 +325,8 @@ nav a:hover::before {
 
 #Membership-box a:active{color:black; border:2px solid black;}
 
+#Membership-box p{color: transparent; margin-top: 3%;}
+
 #PT-box{
 	border: 1px solid white;
 	border-radius: 5px;
@@ -355,6 +359,8 @@ nav a:hover::before {
 #PT-box a:hover{background-color: white; color:#31c48d;}
 
 #PT-box a:active{color:black; border:2px solid black;}
+
+#PT-box p{color: transparent; margin-top: 3%;}
 
 .FAQs{
 	width: 95%;
@@ -431,6 +437,8 @@ nav a:hover::before {
 #help-button:hover{background-color: transparent; color:#31c48d;}
 
 #help-button:active{background-color: transparent;color:black; border:2px solid black;}
+
+.FAQs p{color: transparent; margin-top: 3%;}
 
 .bottom {
 	display:flex;
