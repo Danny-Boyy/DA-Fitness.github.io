@@ -150,7 +150,7 @@ nav a:hover::before {
 #kenneth-box{
 	margin: 3.125rem;
 	font-size: 1.125rem;	
-	justify-content: space-between;
+	/* justify-content: space-between;*/
 	display: flex;
 	flex-direction: row;
 	text-align: center;
