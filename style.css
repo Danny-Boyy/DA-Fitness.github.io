@@ -214,6 +214,7 @@ nav:hover::before {
 	flex-direction: row;
 	justify-content: space-evenly;
 	justify-items: stretch;
+	margin-bottom: 5%;
 }
 
 #Lesson-box{
