@@ -167,8 +167,11 @@ body {
 	width:100%;
 	background-image: url(heroimg2.jpg);
 
+	filter: blur(8px);
+	-webkit-filter: blur(8px);
+
 	/* Set a specific height */
-	height: 50%;
+	height: 80%;
 
 	/* Position and center the image to scale nicely on all screens */
 	background-position: center;
