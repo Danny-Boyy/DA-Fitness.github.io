@@ -168,29 +168,53 @@ nav a:hover::before {
 
 #ken-quote h3{color:#31c48d;}
 
-#ken-quote em{text-align: justify; margin:5% 5%;}
+#ken-quote em{text-align: justify;}
 
 #JJ-box{
-	background-color: #fff;
 	margin: 3.125rem;
-	font-size: 1.125rem;
-	justify-content: space-evenly;
+	font-size: 1.125rem;	
+	justify-content: space-between;
 	display: flex;
 	flex-direction: row;
+	text-align: center;
+}
+
+#JJ-img img{border:2px solid white; border-radius: 5px;}
+
+#JJ-quote{
+	background-color: #fff;
+	margin-left: 5%;
+	border-radius: 5px;
+	width: 15rem;
+	max-height: 18.75rem;
 }
 
 #JJ-quote h3{color:#31c48d;}
 
+#JJ-quote em{text-align: justify;}
+
 #Arabella-box{
-	background-color: #fff;
 	margin: 3.125rem;
-	font-size: 1.125rem;
-	justify-content: space-around;
+	font-size: 1.125rem;	
+	justify-content: space-between;
 	display: flex;
 	flex-direction: row;
+	text-align: center;
+}
+
+#Arabella-img img{border:2px solid white; border-radius: 5px;}
+
+#Arabella-quote{
+	background-color: #fff;
+	margin-left: 5%;
+	border-radius: 5px;
+	width: 15rem;
+	max-height: 18.75rem;
 }
 
 #Arabella-quote h3{color:#31c48d;}
+
+#Arabella-quote em{text-align: justify;}
 
 #heroimg2{
 	width:100%;
