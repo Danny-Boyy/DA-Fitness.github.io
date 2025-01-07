@@ -136,7 +136,7 @@ nav a:hover::before {
 .client h2{
 	color:white;
 	font-size: 1.5rem;
-	margin-top: 2rem;
+	margin-top: 2.5rem;
 	margin-bottom: 0.938rem;
 }
 
@@ -162,7 +162,7 @@ nav a:hover::before {
 	/* border-radius: 2px; */
 	border: 2px solid white;
 	display: inline-block;
-	/* text-decoration: none; */
+	text-decoration: none;
 }
 
 #ken-quote{
