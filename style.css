@@ -417,7 +417,7 @@ nav a:hover::before {
 	background-color: #31c48d;
 	color: white;
 	width:15%;
-	text-decoration: solid;
+	text-decoration: none;
 	font-size: 1.5rem;
 	margin-top: 1.5rem;
 	margin-bottom: 1rem;
