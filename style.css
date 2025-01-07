@@ -432,6 +432,12 @@ nav a:hover::before {
 	margin:0rem, 0.625rem;
 }
 
+.Additional h4{border-bottom: rgba(0,0,0, 0.4);}
+
+.Socials h4{border-bottom: rgba(0,0,0, 0.4);}
+
+.Policies h4{border-bottom: rgba(0,0,0, 0.4);}
+
 .Socials a{
 	justify-content: space-between;
 	text-decoration: none;
