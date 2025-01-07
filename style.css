@@ -215,6 +215,9 @@ nav a:hover::before {
 	color: white;
 	text-align: justify;
 	/* z-index: 1; */
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
 #heroimg2txt button{
@@ -224,6 +227,9 @@ nav a:hover::before {
 	background-color: transparent;
 	font-size: 1.25rem;
 	/* z-index: 1; */
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
 .option-container{
