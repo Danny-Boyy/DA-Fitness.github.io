@@ -208,7 +208,7 @@ nav a:hover::before {
 	z-index: -1;
 }
 
-#herodivtxt p{
+#herotxt p{
 	/* font-size: 1rem;
 	max-width: 20%;
 	color: white;
@@ -233,7 +233,7 @@ nav a:hover::before {
 	text-align: center;
 }
 
-#herodivtxt button{
+#herotxt button{
 	/* border: 0.125rem solid #31c48d;
 	border-radius: 0.125rem;
 	color:#31c48d;
