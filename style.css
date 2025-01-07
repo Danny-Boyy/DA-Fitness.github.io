@@ -206,24 +206,24 @@ nav a:hover::before {
 	background-size: cover;
 	position: relative;
 	margin:5% 0;
-	/* z-index: -1; */
+	z-index: -1;
 }
 
-#heroimg2 p{
+#heroimg2txt p{
 	font-size: 1rem;
 	max-width: 20%;
 	color: white;
 	text-align: justify;
-	z-index: 2;
+	/* z-index: 1; */
 }
 
-#heroimg2 button{
+#heroimg2txt button{
 	border: 0.125rem solid #31c48d;
 	border-radius: 0.125rem;
 	color:#31c48d;
 	background-color: transparent;
 	font-size: 1.25rem;
-	z-index: 2;
+	/* z-index: 1; */
 }
 
 .option-container{
