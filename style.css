@@ -378,7 +378,7 @@ nav a:hover::before {
 	font-size: 2rem;
 	text-decoration: wavy;
 	width:8%;
-	border-radius: 0.125rem;
+	border-radius: 3px;
 }
 
 .FAQs ul{
@@ -423,7 +423,7 @@ nav a:hover::before {
 
 #help-button{
 	border: 0.125rem solid #31c48d;
-	border-radius: 2px;
+	border-radius: 3px;
 	background-color: #31c48d;
 	color: white;
 	width:15%;
@@ -438,7 +438,7 @@ nav a:hover::before {
 
 #help-button:active{background-color: transparent;color:black; border:2px solid black;}
 
-.FAQs p{color: transparent; margin-top: 3%;}
+.FAQs p{color: transparent; margin-top: 2%;}
 
 .bottom {
 	display:flex;
