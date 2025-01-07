@@ -276,10 +276,12 @@ nav a:hover::before {
 
 #Lesson-box a{
 	border:2px solid #31c48d;
+	border-radius: 5px;
+	text-decoration: none;
 	font-size: 1.25rem;
 	background-color: #31c48d;
 	color: white;
-	margin-bottom: 5%;
+	margin-bottom: 8%;
 	transition: all 0.3s;
 }
 
