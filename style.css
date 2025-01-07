@@ -163,11 +163,15 @@ nav a:hover::before {
 	margin-left: 5%;
 	border-radius: 5px;
 	width: 15rem;
-	text-align: justify;
 	max-height: 18.75rem;
 }
 
 #ken-quote h3{color:#31c48d;}
+
+#ken-quote em{
+	text-align: justify;
+	width:80%;
+}
 
 #JJ-box{
 	background-color: #fff;
