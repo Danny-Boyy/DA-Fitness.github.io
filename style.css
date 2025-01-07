@@ -156,6 +156,7 @@ nav a:hover::before {
 	/* border-radius: 2px; */
 	border: 2px solid white;
 	display: inline-block;
+	/* text-decoration: none; */
 }
 
 #ken-quote{
