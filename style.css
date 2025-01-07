@@ -126,7 +126,7 @@ nav a:hover::before {
 }
 
 #kenneth-box{
-	margin: 3.125rem;
+	margin:3.125rem 1.875rem;
 	font-size: 1.125rem;	
 	/* justify-content: space-between;*/
 	display: flex;
@@ -149,7 +149,7 @@ nav a:hover::before {
 #ken-quote em{text-align: justify; margin:10% 2%;}
 
 #JJ-box{
-	margin: 3.125rem;
+	margin:3.125rem 1.875rem;
 	font-size: 1.125rem;	
 	justify-content: space-between;
 	display: flex;
@@ -172,7 +172,7 @@ nav a:hover::before {
 #JJ-quote em{text-align: justify;}
 
 #Arabella-box{
-	margin: 3.125rem;
+	margin:3.125rem 1.875rem;
 	font-size: 1.125rem;	
 	justify-content: space-between;
 	display: flex;
