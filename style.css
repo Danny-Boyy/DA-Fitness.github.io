@@ -6,38 +6,24 @@ body {
 	font-family: "Roboto", serif;
 }
 
-::-webkit-scrollbar-track {
-	/* background: #fff; */
-	display: none;
-	}
+::-webkit-scrollbar-track {display: none;}
 	
-/*Shrinking the scrollbar*/
 ::-webkit-scrollbar {
 	width: 0.625rem;
 	border-radius: 0.313rem;
 }
 
-/*Removing the horizontal scrollbar*/
-::-webkit-scrollbar:horizontal {
-	display: none;
-}
+::-webkit-scrollbar:horizontal {display: none;}
 
-/*Giving the thumb a gradient*/
 ::-webkit-scrollbar-thumb {
-	/* background: linear-gradient(#31c48d, #ffffff, #31c48d); */
 	background: #fff;
 	border-radius: 1.25rem;
-	opacity: 0.6;
-	transition: 0.3s;
 }
 
-::-webkit-scrollbar-thumb:hover {opacity:1;}
-
-.solid-scrollbar-thumb::-webkit-scrollbar-thumb {
-	/* background: linear-gradient(#31c48d, #ffffff, #31c48d); */
+/* .solid-scrollbar-thumb::-webkit-scrollbar-thumb {
 	background: rgba(255,255,255,0.5);
 	border-radius: 1.25rem;
-}
+} */
 
 
 
@@ -54,14 +40,6 @@ body {
 	padding: 0.625rem;
 	z-index: 5;
 }
-
-/*#logo {
-	/* width: 250px; */
-	/* display: flex; */
-	/* flex-grow: 0.5; */
-	/* justify-content: center; */
-	/* align-items: center;  */
-/* } */
 
 .nav{
 	display: flex;
