@@ -186,8 +186,9 @@ body {
 }
 
 #Lesson-box button{
-	height:10%;
-	width:20%;
+	/* height:10%; */
+	/* width:20%; */
+	font-size: 1rem;
 	background-color: #31c48d;
 	color: white;
 	margin-bottom: 5%;
