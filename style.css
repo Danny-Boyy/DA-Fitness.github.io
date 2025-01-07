@@ -298,7 +298,7 @@ nav a:hover::before {
 	transition: all 0.3s;
 }
 
-#lesson-box button:hover{background-color: white;}
+#lesson-box button:hover{background-color: white; color:#31c48d;}
 
 #lesson-box button:active{color:black; border:2px solid black;}
 
