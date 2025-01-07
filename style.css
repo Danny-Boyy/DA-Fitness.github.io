@@ -31,7 +31,6 @@ body {
 	width: 100%;
 	background-color: #31c48d;
 	position: sticky;
-	/* top: 0.1px; */
 	top: 0;
 	box-shadow: 0rem 0.313rem 0.625rem rgba(0,0,0,0.3);
 	display: flex;
@@ -47,7 +46,6 @@ body {
 	margin-right: 1.875rem;
 	align-items: center;
 	flex: end;
-
 	position: relative;
 }
 
@@ -68,13 +66,11 @@ body {
 	bottom: 0;
 	left: 50%;
 	background-color: #fff;
-	/* transform: scaleX(0); */
 	transform: translateX(-50%);
 	transition: width 0.3s ease, let 0.3s ease;
 }
 
 nav a:hover::before {
-	/* transform: scaleX(1); */
 	width: 100%;
 	left: 50%;
 }
@@ -282,7 +278,7 @@ nav a:hover::before {
 	width:1.5rem;
 	background-color: #31c48d;
 	color: white;
-	margin-bottom: 1rem;
+	padding-bottom: 5%;
 	transition: all 0.3s;
 }
 
