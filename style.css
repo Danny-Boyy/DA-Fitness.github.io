@@ -302,6 +302,7 @@ body {
 .FAQ-header{
 	margin-top: 3%;
 	border-bottom: 2px solid black;
+	width: 97%;
 }
 
 .FAQ-content{
