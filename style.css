@@ -109,7 +109,7 @@ nav a:hover::before {
 	font-weight: 400;
 }
 
-.client h2{
+.clients h2{
 	color:white;
 	font-size: 1.5rem;
 	margin-top: 2.5rem;
@@ -245,6 +245,13 @@ nav a:hover::before {
 	text-align: center;
 }
 
+.options h2{
+	color:white;
+	font-size: 1.5rem;
+	margin-top: 2.5rem;
+	margin-bottom: 0.938rem;
+}
+
 .option-container{
 	max-height: 25rem;
 	width: 100%;
@@ -254,13 +261,6 @@ nav a:hover::before {
 	justify-items: stretch;
 	margin-bottom: 5%;
 	font-weight: 400;
-}
-
-.option-container h2{
-	color:white;
-	font-size: 1.5rem;
-	margin-top: 2.5rem;
-	margin-bottom: 0.938rem;
 }
 
 #Lesson-box{
