@@ -27,7 +27,11 @@ body {
 	/* background: linear-gradient(#31c48d, #ffffff, #31c48d); */
 	background: #fff;
 	border-radius: 1.25rem;
+	opacity: 0.6;
+	transition: 0.3s;
 }
+
+::-webkit-scrollbar-thumb:hover {opacity:1;}
 
 .solid-scrollbar-thumb::-webkit-scrollbar-thumb {
 	/* background: linear-gradient(#31c48d, #ffffff, #31c48d); */
@@ -121,7 +125,6 @@ body {
 }
 
 #kenneth-box{
-	/* background-color: #fff; */
 	margin: 3.125rem;
 	font-size: 1.125rem;
 	justify-content: space-between;
@@ -136,7 +139,6 @@ body {
 }
 
 #ken-quote{
-	/* padding-left: 0.938rem; */
 	background-color: #fff;
 	margin-left: 5%;
 	border-radius: 5px;
@@ -233,10 +235,8 @@ body {
 
 .FAQs{
 	width: 95%;
-	/* max-height: 20rem; */
 	background-color: #fff;
 	display: grid;
-	/* justify-items: stretch; */
 	margin: auto;
 	margin-top: 1.875rem;
 	margin-bottom: 1.875rem;
