@@ -298,17 +298,8 @@
     <script>
         function toggleContent(contentId) {
             var content = document.getElementById(contentId);
-            if (content.style.display === "none") {
-                content.style.display = "block";
-                // content.style.opacity = "1";
-                // content.style.visibility = "visible";
-            } else {
-                content.style.display = "none";
-                // content.style.visibility = "hidden";
-                // content.style.opacity = "0";
-                // content.style.transition =  "visibility 0s, opacity 0.5s linear";
-
-            }
+            if (content.style.display === "none") {content.style.display = "block";} 
+            else {content.style.display = "none";}
         }
     </script>
 
