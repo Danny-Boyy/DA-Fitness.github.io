@@ -228,7 +228,7 @@ nav a:hover::before {
 	border: 3px solid #31c48d;
 	border-radius: 5px;
 	position: absolute;
-	top: 245%;
+	top: 255%;
 	left: 30%;
 	transform: translate(-50%, -50%);
 	width: 10%;
