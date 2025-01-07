@@ -157,9 +157,10 @@ nav a:hover::before {
 }
 
 #ken-img{
-	border: 2px solid white;
+	/* border: 2px solid white; */
 	/* display: inline-block; */
-	text-decoration: none;
+	/* text-decoration: none; */
+	border-radius: 5px;
 }
 
 #ken-quote{
