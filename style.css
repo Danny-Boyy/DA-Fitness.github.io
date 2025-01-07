@@ -414,8 +414,7 @@ nav a:hover::before {
 }
 
 #help-button{
-	border: none;
-	border-radius: 0.125rem;
+	border: 0.125rem solid #31c48d;
 	background-color: #31c48d;
 	color: white;
 	width:15%;
@@ -426,18 +425,9 @@ nav a:hover::before {
 	transition: all 0.3s;
 }
 
-#help-button:hover{
-	background-color: transparent;
-	color:#31c48d;
-	border: 0.125rem solid #31c48d;
-}
+#help-button:hover{background-color: transparent; color:#31c48d;}
 
-#help-button:active{
-	transition: all 0.1s;
-	background-color: transparent;
-	color:#31c48d;
-	border: 0.25rem solid #31c48d;
-}
+#help-button:active{background-color: transparent;color:black;}
 
 .bottom {
 	display:flex;
