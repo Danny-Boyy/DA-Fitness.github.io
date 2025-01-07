@@ -249,7 +249,7 @@ nav a:hover::before {
 	color: white;
 	font-weight: bold;
 	border: 3px solid #f1f1f1;
-	/* position: absolute; */
+	position: absolute;
 	top: 240%;
 	left: 30%;
 	transform: translate(-50%, -50%);
