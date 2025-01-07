@@ -204,7 +204,7 @@ nav a:hover::before {
 	max-width: 20%;
 	color: white;
 	text-align: justify;
-	z-index: 0;
+	z-index: 1;
 }
 
 #heroimg2 button{
@@ -213,7 +213,7 @@ nav a:hover::before {
 	color:#31c48d;
 	background-color: transparent;
 	font-size: 1.25rem;
-	z-index: 0;
+	z-index: 1;
 }
 
 .option-container{
