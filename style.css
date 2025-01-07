@@ -287,7 +287,7 @@ nav a:hover::before {
 	justify-content: center;
 }
 
-#Lesson-box button{
+#Lesson-box a{
 	border:2px solid #31c48d;
 	font-size: 1.25rem;
 	background-color: #31c48d;
@@ -296,9 +296,9 @@ nav a:hover::before {
 	transition: all 0.3s;
 }
 
-#lesson-box button:hover{background-color: white; color:#31c48d;}
+#lesson-box a:hover{background-color: white; color:#31c48d;}
 
-#lesson-box button:active{color:black; border:2px solid black;}
+#lesson-box a:active{color:black; border:2px solid black;}
 
 #Membership-box{
 	border: 1px solid white;
