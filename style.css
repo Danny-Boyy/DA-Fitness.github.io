@@ -164,6 +164,11 @@ body {
 	flex-direction: row;
 }
 
+.heroimg2{
+	width:100%;
+	background-image: url(heroimg2.jpg);
+}
+
 .option-container{
 	max-height: 25rem;
 	width: 100%;
