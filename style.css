@@ -117,8 +117,6 @@ nav:hover::before {
 	color: #31c48d;
 	font-size: 1.75rem;
 	text-shadow: #31c48e85;
-	/* text-decoration: underline; */
-	/* text-decoration-color: #31c48d; */
 }
 
 .quote h2{
@@ -128,13 +126,8 @@ nav:hover::before {
 }
 
 .client h2{
-	/* background-color: #fff; */
-	/* border-radius: 0.75rem; */
 	color:white;
 	font-size: 1.5rem;
-	/* width: 25%; */
-	/* justify-content: center; */
-	/* justify-items: center; */
 	margin-top: 2rem;
 	margin-bottom: 0.938rem;
 }
@@ -191,19 +184,15 @@ nav:hover::before {
 .heroimg2{
 	width:100%;
 	background-image: url(heroimg2.jpg);
-
-	filter: blur(8px);
-	-webkit-filter: blur(8px);
-
-	/* Set a specific height */
-	height: 80%;
+	filter: blur(4px);
+	-webkit-filter: blur(4px);
+	height:100%;
 
 	/* Position and center the image to scale nicely on all screens */
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
-
 	margin-bottom: 10%;
 }
 
