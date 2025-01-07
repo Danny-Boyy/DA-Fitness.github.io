@@ -376,6 +376,12 @@ nav a:hover::before {
 	border: 0.125rem solid #31c48d;
 }
 
+#help-button:active{
+	background-color: transparent;
+	color:#31c48d;
+	border: 0.25rem solid #31c48d;
+}
+
 .bottom {
 	display:flex;
 	flex-direction: row;
