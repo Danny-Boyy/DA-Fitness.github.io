@@ -247,7 +247,6 @@ nav a:hover::before {
 	border-radius: 5px;
 	display: grid;
 	background-color: #fff;
-	/* width: 10rem; */
 	justify-content: center;
 	width: 20%;
 }
