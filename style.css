@@ -244,11 +244,9 @@ body {
 }
 
 .Faqs h2{
-	/* justify-content: center; */
-	/* justify-items: center; */
 	background-color: #31c48d;
 	color: white;
-	/* font-size: 1.25rem; */
+	font-size: 2rem;
 	text-decoration: wavy;
 	width:5%;
 }
