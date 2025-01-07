@@ -269,11 +269,15 @@ nav a:hover::before {
 }
 
 #Membership-box{
+	border: 1px solid white;
 	border-radius: 5px;
 	display: grid;
 	background-color: #fff;
-	width: 10rem;
+	justify-content: center;
+	width: 20%;
 }
+
+#Membership-box img{border-radius: 5px;}
 
 #Membership-box em{
 	margin: 10% 0;
@@ -291,11 +295,15 @@ nav a:hover::before {
 }
 
 #PT-box{
+	border: 1px solid white;
 	border-radius: 5px;
 	display: grid;
 	background-color: #fff;
-	width: 10rem;
+	justify-content: center;
+	width: 20%;
 }
+
+#PT-box img{border-radius: 5px;}
 
 #PT-box em{
 	margin: 10% 0;
