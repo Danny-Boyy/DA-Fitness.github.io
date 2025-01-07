@@ -232,6 +232,11 @@ nav a:hover::before {
 	background-color: #fff;
 }
 
+#lesson-box img{
+	border: 1px solid #fff;
+	border-bottom: none;
+}
+
 #Lesson-box em{
 	margin: 10% 0;
 	text-align: center;
