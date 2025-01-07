@@ -68,16 +68,18 @@ body {
 	margin-right: 1.875rem;
 	align-items: center;
 	flex: end;
+}
 
+.nav a{
 	color: #fff;
 	text-decoration: none;
 }
 
-.nav:hover{
+.nav a:hover{
 	color: #fff;
 }
 
-.nav::before{
+.nav a::before{
 	content: "";
 	position: absolute;
 	display: block;
@@ -90,7 +92,7 @@ body {
 	transition: transform 0.3s ease
 }
 
-nav:hover::before {
+nav a:hover::before {
 	transform: scaleX(1);
 }
 
