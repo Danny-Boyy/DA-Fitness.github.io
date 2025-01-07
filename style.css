@@ -68,11 +68,14 @@ body {
 	margin-right: 1.875rem;
 	align-items: center;
 	flex: end;
+
+	position: relative;
 }
 
 .nav a{
 	color: #fff;
 	text-decoration: none;
+	position: relative;
 }
 
 .nav a:hover{
@@ -83,17 +86,20 @@ body {
 	content: "";
 	position: absolute;
 	display: block;
-	width: 100%;
+	width: 0;
 	height: 2px;
 	bottom: 0;
-	left: 0;
+	left: 50%;
 	background-color: #fff;
-	transform: scaleX(0);
-	transition: transform 0.3s ease;
+	/* transform: scaleX(0); */
+	transform: translateX(-50%);
+	transition: width 0.3s ease, let 0.3s ease;
 }
 
 nav a:hover::before {
-	transform: scaleX(1);
+	/* transform: scaleX(1); */
+	width: 100%;
+	left: 0;
 }
 
 #heroimg1{
