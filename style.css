@@ -236,7 +236,8 @@ nav a:hover::before {
 	border-radius: 5px;
 	display: grid;
 	background-color: #fff;
-	width: 10rem;
+	/* width: 10rem; */
+	width: 20%;
 }
 
 #lesson-box img{
@@ -263,6 +264,7 @@ nav a:hover::before {
 	border-radius: 5px;
 	display: grid;
 	background-color: #fff;
+	width: 10rem;
 }
 
 #Membership-box em{
@@ -284,6 +286,7 @@ nav a:hover::before {
 	border-radius: 5px;
 	display: grid;
 	background-color: #fff;
+	width: 10rem;
 }
 
 #PT-box em{
