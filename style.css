@@ -282,6 +282,18 @@ nav a:hover::before {
 	transition: all 0.3s;
 }
 
+#Lesson-box button{
+	border:2px solid #31c48d;
+	border-radius: 5px;
+	text-decoration: none;
+	font-size: 1.25rem;
+	width:1.5rem;
+	background-color: #31c48d;
+	color: white;
+	margin-bottom: 5%;
+	transition: all 0.3s;
+}
+
 #lesson-box a:hover{background-color: white; color:#31c48d;}
 
 #lesson-box a:active{color:black; border:2px solid black;}
