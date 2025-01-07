@@ -115,7 +115,6 @@ nav a:hover::before {
 	display: grid;
 	justify-items: center;
 	justify-content: center;
-	/* text-transform: uppercase; */
 	/* -webkit-text-stroke-width: 0.016rem; */
 	/* -webkit-text-stroke-color: rgb(121, 121, 121); */
 }
@@ -159,7 +158,6 @@ nav a:hover::before {
 }
 
 #ken-img{
-	/* border-radius: 2px; */
 	border: 2px solid white;
 	display: inline-block;
 	text-decoration: none;
@@ -199,7 +197,6 @@ nav a:hover::before {
 	-webkit-filter: blur(4px);
 	height:100%;
 
-	/* Position and center the image to scale nicely on all screens */
 	background-position: center;
 	/* background-repeat: no-repeat; */
 	background-size: cover;
