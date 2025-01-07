@@ -168,7 +168,7 @@ nav a:hover::before {
 
 #ken-quote h3{color:#31c48d;}
 
-#ken-quote em{text-align: justify;}
+#ken-quote em{text-align: justify; margin:10% 2%;}
 
 #JJ-box{
 	margin: 3.125rem;
