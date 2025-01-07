@@ -183,7 +183,7 @@ nav a:hover::before {
 	flex-direction: row;
 }
 
-.heroimg2{
+#heroimg2{
 	width:100%;
 	background-image: url(heroimg2.jpg);
 	filter: blur(4px);
@@ -196,6 +196,21 @@ nav a:hover::before {
 	/* background-size: cover; */
 	/* position: relative; */
 	margin-bottom: 10%;
+}
+
+#heroimg2 p{
+	font-size: 1rem;
+	max-width: 20%;
+	color: white;
+	text-align: justify;
+}
+
+#heroimg2 button{
+	border: 0.125rem solid #31c48d;
+	border-radius: 0.125rem;
+	color:#31c48d;
+	background-color: transparent;
+	font-size: 1.25rem;
 }
 
 .option-container{
