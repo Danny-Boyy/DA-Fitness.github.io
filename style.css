@@ -233,7 +233,7 @@ nav a:hover::before {
 	border-radius: 5px;
 	display: grid;
 	background-color: #fff;
-	width: 20rem;
+	width: 10rem;
 }
 
 #lesson-box img{
