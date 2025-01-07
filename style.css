@@ -190,8 +190,8 @@ body {
 }
 
 #Lesson-box button{
-	/* height:10%; */
-	/* width:20%; */
+	border:none;
+	border-radius: 2px;
 	font-size: 1rem;
 	background-color: #31c48d;
 	color: white;
@@ -211,8 +211,9 @@ body {
 }
 
 #Membership-box button{
-	height:10%;
-	width:20%;
+	border:none;
+	border-radius: 2px;
+	font-size: 1rem;
 	background-color: #31c48d;
 	color: white;
 	margin-bottom: 5%;
@@ -231,8 +232,9 @@ body {
 }
 
 #PT-box button{
-	height:10%;
-	width:20%;
+	border:none;
+	border-radius: 2px;
+	font-size: 1rem;
 	background-color: #31c48d;
 	color: white;
 	margin-bottom: 5%;
