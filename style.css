@@ -152,7 +152,7 @@ nav a:hover::before {
 }
 
 #ken-img{
-	border-radius: 2px;
+	/* border-radius: 2px; */
 	border: 2px solid white;
 }
 
