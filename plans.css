@@ -117,22 +117,22 @@ nav a:hover::before {
     margin-bottom: 4%;
 }
 
-.boxes {
+.boxes, .boxes2 {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
 }
 
-.boxes h2{
+.boxes h2, .boxes2 h2{
     color:#31c48d;
     margin-top:3%;
 }
 
-.boxes ul{
+.boxes ul, boxes2 p{
     margin-bottom:2%;
 }
 
-.boxes a{
+.boxes a, .boxes2 a{
 	border:2px solid #31c48d;
 	border-radius: 5px;
 	text-decoration: none;
@@ -145,8 +145,8 @@ nav a:hover::before {
 	transition: all 0.3s;
 }
 
-.boxes a:hover{background-color: white; color:#31c48d;}
-.boxes a:active{color:black; border:2px solid black;}
+.boxes a:hover, boxes2 a:hover{background-color: white; color:#31c48d;}
+.boxes a:active, boxes2 a:active{color:black; border:2px solid black;}
 
 #month1, #month2, #month3, #month4{
     background-color: white;
