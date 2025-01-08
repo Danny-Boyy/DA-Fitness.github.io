@@ -128,10 +128,6 @@ nav a:hover::before {
     margin-top:3%;
 }
 
-.boxes ul, boxes2 p{
-    margin-bottom:2%;
-}
-
 .boxes a, .boxes2 a{
 	border:2px solid #31c48d;
 	border-radius: 5px;
@@ -175,10 +171,12 @@ nav a:hover::before {
     background-color: white;
     border: 5px solid #c6efdf;
     border-radius: 5px;
-    text-align: justify;
-    width: 25%;
+    text-align: center;
+    width: 22%;
     height: 30%;
 }
+
+#yearly p, #student p, #day p, #family p{text-align: center;}
 
 #further-help{
     text-align: center;
