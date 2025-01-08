@@ -114,7 +114,9 @@ nav a:hover::before {
     text-align: center;
 }
 
-
+.text-break h2{
+    width:95%;
+}
 
 
 
