@@ -185,6 +185,13 @@ nav a:hover::before {
     color:white;
 }
 
+#further-help a{
+    color:#c6efdf;
+    transition: all 0.3s;
+}
+
+#further-help a:hover{text-decoration: underline;}
+
 .nothing {color:transparent;}
 
 .footer-box {
