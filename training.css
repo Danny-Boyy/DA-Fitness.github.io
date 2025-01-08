@@ -188,16 +188,7 @@ intro h2{margin-top: 3.5rem;}
 
 #gym-text h2{color: #31c48d;}
 
-#gym-text p{width:95%; margin:auto;}
-
-#gym-text table{
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-  text-align: center;
-  margin-top: 4%;
-  margin-bottom: 7%;
-}
+#gym-text p{width:95%; margin:auto; margin-bottom: 7%;}
 
 #gym-text a{
 	border:2px solid #31c48d;
@@ -240,16 +231,7 @@ intro h2{margin-top: 3.5rem;}
 
 #PT-text h2{color: #31c48d;}
 
-#PT-text p{width:95%; margin:auto;}
-
-#PT-text table{
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-  text-align: center;
-  margin-top: 4%;
-  margin-bottom: 7%;
-}
+#PT-text p{width:95%; margin:auto; margin-bottom: 7%;}
 
 #PT-text a{
 	border:2px solid #31c48d;
@@ -292,16 +274,7 @@ intro h2{margin-top: 3.5rem;}
 
 #class-text h2{color: #31c48d;}
 
-#class-text p{width:95%; margin:auto;}
-
-#class-text table{
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-  text-align: center;
-  margin-top: 4%;
-  margin-bottom: 7%;
-}
+#class-text p{width:95%; margin:auto; margin-bottom: 7%;}
 
 #class-text a{
 	border:2px solid #31c48d;
@@ -344,16 +317,7 @@ intro h2{margin-top: 3.5rem;}
 
 #club-text h2{color: #31c48d;}
 
-#club-text p{width:95%; margin:auto;}
-
-#club-text table{
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-  text-align: center;
-  margin-top: 4%;
-  margin-bottom: 7%;
-}
+#club-text p{width:95%; margin:auto; margin-bottom: 7%;}
 
 #club-text a{
 	border:2px solid #31c48d;
