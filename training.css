@@ -37,7 +37,7 @@ border-radius: 1.25rem;
   position: absolute;
   z-index: 1;
   top: 100%;
-  left: 50%;
+  left: 40%;
   margin-left: -60px;
   transition: all 0.3s;
 }
