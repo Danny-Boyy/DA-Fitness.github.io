@@ -136,28 +136,28 @@ nav a:hover::before {
 .nothing{color:transparent;}
 
 .container {
-  display: flex; /* Flexbox for side-by-side layout */
-  justify-content: space-between; /* Align the two containers with space between them */
-  width: 100%; /* Ensure the container takes the full width */
-  margin: 0 auto; /* Center the entire container in the middle of the screen */
-  padding: 20px; /* Optional padding around the entire container */
+  display: flex; 
+  justify-content: space-between; 
+  width: 100%; 
+  margin: 0 auto; 
+  padding: 20px; 
 }
 
 #customer-text, #contact-text {
   background-color: white;
   border: 5px solid #c6efdf;
   border-radius: 5px;
-  width: 45%; /* Adjust width so both containers fit side by side */
-  padding: 15px; /* Add padding for spacing inside the containers */
-  box-sizing: border-box; /* Include padding and border in the element's total width/height */
+  width: 45%; 
+  padding: 15px; 
+  box-sizing: border-box; 
 }
 
 #customer-text {
-  text-align: center; /* Align text to the left in the customer text section */
+  text-align: center; 
 }
 
 #contact-text {
-  text-align: center; /* Center the text inside the contact text section */
+  text-align: center;  
 }
 
 a {
