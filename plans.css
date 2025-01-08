@@ -105,16 +105,20 @@ nav a:hover::before {
     margin-bottom: 5%;
 }
 
-.monthly{
+/* .monthly{
     display: flex;
     flex-direction: row;
-}
+} */
 
 .monthly h2, .monthly h4{
     color:white;
     width:95%;
     margin:auto;
-    display: block;
+}
+
+.boxes {
+    display: flex;
+    flex-direction: row;
 }
 
 #month1{
