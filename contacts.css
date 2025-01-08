@@ -97,7 +97,46 @@ nav a:hover::before {
 
 #current {color:#446053}
 
+.titles{color:white;}
 
+.container {
+  display: flex; 
+  justify-content: space-evenly; 
+  width: 100%; 
+  margin: 0 auto; 
+  padding: 20px; 
+}
+
+#customer-text, #contact-text {
+  background-color: white;
+  border: 5px solid #c6efdf;
+  border-radius: 5px;
+  width: 45%;
+  padding: 15px;
+  box-sizing: border-box;
+  display: flex; 
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center; 
+  text-align: center;
+}
+
+#customer-text {
+  text-align: center; 
+}
+
+#contact-text {
+  text-align: center;  
+}
+
+a {
+  color: #31c48d; 
+  text-decoration: none; 
+}
+
+a:hover {
+  text-decoration: underline;
+}
 
 .footer-box {
 	background-color: white;
@@ -134,48 +173,6 @@ nav a:hover::before {
 }
 
 .nothing{color:transparent;}
-
-.container {
-  display: flex; 
-  justify-content: space-evenly; 
-  width: 100%; 
-  margin: 0 auto; 
-  padding: 20px; 
-}
-
-#customer-text, #contact-text {
-  background-color: white;
-  border: 5px solid #c6efdf;
-  border-radius: 5px;
-  width: 45%;
-  padding: 15px;
-  box-sizing: border-box;
-  display: flex; /* Turn it into a flex container */
-  flex-direction: column; /* Stack the content vertically */
-  justify-content: center; /* Center the content vertically */
-  align-items: center; /* Center the content horizontally */
-  text-align: center; /* Ensure the text is centered */
-}
-
-#customer-text {
-  text-align: center; 
-}
-
-#contact-text {
-  text-align: center;  
-}
-
-a {
-  color: #31c48d; /* Set link color */
-  text-decoration: none; /* Remove underline from links */
-}
-
-a:hover {
-  text-decoration: underline; /* Add underline to links on hover */
-}
-
-
-
 
 
 
