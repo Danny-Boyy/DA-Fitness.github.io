@@ -104,6 +104,11 @@ nav a:hover::before {
     text-align: center;
 }
 
+.monthly h2, h4{
+    color:white;
+    width:95%;
+    margin:auto;
+}
 
 
 
