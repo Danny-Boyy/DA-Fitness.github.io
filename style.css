@@ -1,6 +1,5 @@
 body {
     background-color: #31c48d;
-	/* overflow-x: hidden; */
     margin: 0;
 	overflow: auto;
 	font-family: "Roboto", serif;
@@ -19,13 +18,6 @@ body {
 	background: #fff;
 	border-radius: 1.25rem;
 }
-
-/* .solid-scrollbar-thumb::-webkit-scrollbar-thumb {
-	background: rgba(255,255,255,0.5);
-	border-radius: 1.25rem;
-} */
-
-
 
 .navbar{
 	width: 100%;
