@@ -126,6 +126,7 @@ main {background-color: white;}
 
 #swimming-text{
   background-color: #31c48d;
+  border-radius: 5px;
   text-align: center;
   justify-content: center;
   width: 45%;
