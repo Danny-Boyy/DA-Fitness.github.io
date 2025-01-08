@@ -433,7 +433,17 @@ nav a:hover::before {
 
 .FAQs p{color: transparent; margin-top: 2%;}
 
-.bottom {
+.footer-box {
+	background-color: white;
+	border: 0.063rem solid #ccc;
+	width: 100%;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.footer-text {
 	display:flex;
 	flex-direction: row;
 	justify-content: space-around;
@@ -453,14 +463,4 @@ nav a:hover::before {
 
 .socialimgs{
 	margin-top: 25%;
-}
-
-.whiteBox {
-	background-color: white;
-	border: 0.063rem solid #ccc;
-	width: 100%;
-	text-align: center;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
 }
