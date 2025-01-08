@@ -147,9 +147,14 @@ nav a:hover::before {
   background-color: white;
   border: 5px solid #c6efdf;
   border-radius: 5px;
-  width: 45%; 
-  padding: 15px; 
-  box-sizing: border-box; 
+  width: 45%;
+  padding: 15px;
+  box-sizing: border-box;
+  display: flex; /* Turn it into a flex container */
+  flex-direction: column; /* Stack the content vertically */
+  justify-content: center; /* Center the content vertically */
+  align-items: center; /* Center the content horizontally */
+  text-align: center; /* Ensure the text is centered */
 }
 
 #customer-text {
