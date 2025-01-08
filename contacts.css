@@ -148,3 +148,8 @@ nav a:hover::before {
 }
 
 .nothing{color:transparent;}
+
+.left-align {
+text-align: left
+}
+
