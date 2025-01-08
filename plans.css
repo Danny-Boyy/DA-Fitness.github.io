@@ -180,6 +180,10 @@ nav a:hover::before {
     height: 30%;
 }
 
+#further-help{
+    text-align: center;
+    color:white;
+}
 
 .nothing {color:transparent;}
 
