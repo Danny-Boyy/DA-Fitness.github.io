@@ -224,8 +224,12 @@ intro h2{margin-top: 3.5rem;}
 }
 
 
-
 .video-row{
+  display: grid;
+  text-align: center;
+}
+
+.videos{
   justify-content: space-evenly;
 }
 
