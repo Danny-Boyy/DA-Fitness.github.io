@@ -109,7 +109,7 @@ nav a:hover::before {
     flex-direction: row;
 }
 
-.monthly h2 h4{
+.monthly h2, .monthly h4{
     color:white;
     width:95%;
     margin:auto;
@@ -120,6 +120,7 @@ nav a:hover::before {
     border: 2px solid #c6efdf;
     border-radius: 5px;
     text-align: justify;
+    width: 25%;
 }
 
 
