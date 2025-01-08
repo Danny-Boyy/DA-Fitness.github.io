@@ -137,7 +137,7 @@ intro h2{margin-top: 3.5rem;}
   color: white;
 }
 
-#swimming-text p{width:90%;}
+#swimming-text p{width:95%; justify-content: center;}
 
 #swimming-text table{
   margin-left: auto;
