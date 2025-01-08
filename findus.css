@@ -159,7 +159,7 @@ nav a:hover::before {
   flex-direction: column; 
   justify-content: center; 
   align-items: center; 
-
+}
 
 #findus-text {
 text-align: center;
