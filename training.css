@@ -133,12 +133,15 @@ intro h2{margin-top: 1rem;}
   color: white;
 }
 
+#swimming-text p{width:90%;}
+
 #swimming-text table{
   margin-left: auto;
   margin-right: auto;
   width: 80%;
   text-align: center;
-  margin-bottom: 3%;
+  margin-top: 4%;
+  margin-bottom: 7%;
 }
 
 
