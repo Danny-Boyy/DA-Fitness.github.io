@@ -132,6 +132,7 @@ nav a:hover::before {
 }
 
 .text-break h2{
+    margin-top: 5%;    
     width:95%;
     margin:auto;
 }
