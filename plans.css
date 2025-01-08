@@ -102,6 +102,7 @@ nav a:hover::before {
     background-color: white;
     color: #31c48d;
     text-align: center;
+    margin-bottom: 5%;
 }
 
 .monthly{
