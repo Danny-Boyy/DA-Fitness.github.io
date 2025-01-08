@@ -97,7 +97,7 @@ nav a:hover::before {
 
 #current {color:#446053}
 
-.title{
+.titles{
     display:grid;
     background-color: white;
     color: #31c48d;
