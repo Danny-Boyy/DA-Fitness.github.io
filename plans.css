@@ -105,11 +105,6 @@ nav a:hover::before {
     margin-bottom: 3%;
 }
 
-/* .monthly{
-    display: flex;
-    flex-direction: row;
-} */
-
 .monthly h2, .monthly h4, .other h2, .other h4{
     color:white;
     width:95%;
@@ -160,6 +155,7 @@ nav a:hover::before {
     background-color: white;
     color: #31c48d;
     text-align: center;
+    margin-bottom: 3%;
 }
 
 .text-break h2{
