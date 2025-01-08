@@ -98,10 +98,9 @@ left: 50%;
 
 #current {color:#446053}
 
-.intro h2,h3,h4{
-  background-color: white;
-  margin:5% 0%;
-}
+.intro {background-color: white;}
+
+.intro h1,h2,h3{margin:5% 0%;}
 
 
 
