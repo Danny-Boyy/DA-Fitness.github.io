@@ -135,34 +135,26 @@ nav a:hover::before {
 
 .nothing{color:transparent;}
 
-.left-align {
-text-align: left;
+.container {
+  display: flex; /* Enable Flexbox layout */
+  justify-content: space-between; /* Distribute space between the two elements */
 }
 
-.right-align {
-text-align: right;
-}
-
-
-
-#customer-text{
+#customer-text, #contact-text {
   background-color: white;
   border: 5px solid #c6efdf;
   border-radius: 5px;
+  width: 45%; /* Adjust the width to make them fit side by side */
   text-align: center;
-  justify-content: center;
-  width: 45%;
 }
 
-#contact-text{
-  background-color: white;
-  border: 5px solid #c6efdf;
-  border-radius: 5px;
-  text-align: center;
-  justify-content: center;
-  width: 45%;
-  margin-left: auto;
-  margin-right: 0;
+#contact-text {
+  text-align: center; /* Center the text inside */
+  margin-left: 0; /* Remove any margin if previously used */
+}
+
+#customer-text {
+  margin-right: 0; /* Remove any margin if previously used */
 }
 
 
