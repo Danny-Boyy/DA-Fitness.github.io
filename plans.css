@@ -171,6 +171,16 @@ nav a:hover::before {
     margin:auto;
 }
 
+#yearly, #student, #day, #family{
+    background-color: white;
+    border: 5px solid #c6efdf;
+    border-radius: 5px;
+    text-align: justify;
+    width: 25%;
+    height: 30%;
+}
+
+
 .nothing {color:transparent;}
 
 .footer-box {
