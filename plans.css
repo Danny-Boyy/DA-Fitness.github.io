@@ -113,6 +113,7 @@ nav a:hover::before {
     color:white;
     width:95%;
     margin:auto;
+    display: block;
 }
 
 #month1{
