@@ -113,6 +113,12 @@ nav a:hover::before {
     flex-direction: row;
 }
 
+#month1{
+    background-color: white;
+    border: 2px solid #c6efdf;
+    border-radius: 5px;
+    text-align: justify;
+}
 
 
 .text-break{
