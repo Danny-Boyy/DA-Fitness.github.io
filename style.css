@@ -77,7 +77,7 @@ nav a:hover::before {
 .quote{
 	background-color: white;
 	width: 100%;
-	/* display: grid; */
+	display: grid;
 	/* justify-items: center; */
 	/* justify-content: center; */
 	/* -webkit-text-stroke-width: 0.016rem; */
