@@ -128,7 +128,8 @@ intro h2{margin-top: 3.5rem;}
 }
 
 #swimming-text{
-  background-color: #c6efdf;
+  background-color: transparent;
+  border: 5px solid #c6efdf;
   border-radius: 5px;
   text-align: center;
   justify-content: center;
