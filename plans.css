@@ -97,10 +97,22 @@ nav a:hover::before {
 
 #current {color:#446053}
 
+.title{
+    display:grid;
+    background-color: white;
+    color: #31c48d;
+    text-align: center;
+}
 
 
 
 
+.text-break{
+    display:grid;
+    background-color: white;
+    color: #31c48d;
+    text-align: center;
+}
 
 
 
