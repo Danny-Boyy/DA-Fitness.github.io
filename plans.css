@@ -181,6 +181,7 @@ nav a:hover::before {
 #further-help{
     text-align: center;
     color:white;
+    margin-bottom: 3%;
 }
 
 #further-help a{
