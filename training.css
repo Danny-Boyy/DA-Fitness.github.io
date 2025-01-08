@@ -1,8 +1,8 @@
 body {
   background-color: #31c48d;
   margin: 0;
-overflow: auto;
-font-family: "Roboto", serif;
+  overflow: auto;
+  font-family: "Roboto", serif;
 }
 
 ::-webkit-scrollbar-track {display: none;}
@@ -26,9 +26,9 @@ border-radius: 1.25rem;
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
+  width: 200px;
+  background-color: transparent;
+  color: transparent;
   text-align: center;
   border-radius: 6px;
   padding: 5px 0;
@@ -44,6 +44,8 @@ border-radius: 1.25rem;
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
+  background-color: #c6efdf;
+  color: #446053;
 }
 
 .navbar{
