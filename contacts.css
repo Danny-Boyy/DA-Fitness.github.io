@@ -136,11 +136,11 @@ nav a:hover::before {
 .nothing{color:transparent;}
 
 .left-align {
-text-align: left
+text-align: left;
 }
 
 .right-align {
-text-align: right
+text-align: right;
 }
 
 
@@ -161,6 +161,8 @@ text-align: right
   text-align: center;
   justify-content: center;
   width: 45%;
+  margin-left: auto;
+  margin-right: 0;
 }
 
 
