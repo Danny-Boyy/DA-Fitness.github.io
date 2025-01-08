@@ -432,7 +432,7 @@ nav a:hover::before {
 
 #help-button:active{background-color: transparent;color:black; border:2px solid black;}
 
-#nothing{color: transparent; margin-top: 2%;}
+.nothing{color: transparent; margin-top: 2%;}
 
 .footer-box {
 	background-color: white;
