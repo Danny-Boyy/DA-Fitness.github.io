@@ -123,6 +123,11 @@ nav a:hover::before {
 
 .boxes h2{
     color:#31c48d;
+    margin-top:3%;
+}
+
+.boxes ul{
+    margin-bottom:2%;
 }
 
 #month1{
@@ -134,8 +139,9 @@ nav a:hover::before {
     height: 30%;
 }
 
-
 .text-break{
+    margin-top: 3%;    
+    padding: 4% 0;
     display:grid;
     background-color: white;
     color: #31c48d;
@@ -143,11 +149,9 @@ nav a:hover::before {
 }
 
 .text-break h2{
-    margin-top: 3%;    
     width:95%;
     margin:auto;
 }
-
 
 .nothing {color:transparent;}
 
