@@ -128,13 +128,13 @@ intro h2{margin-top: 3.5rem;}
 }
 
 #swimming-text{
-  background-color: transparent;
+  background-color: white;
   border: 5px solid #c6efdf;
   border-radius: 5px;
   text-align: center;
   justify-content: center;
   width: 45%;
-  color: white;
+  /* color: white; */
 }
 
 #swimming-text p{width:95%; justify-content: center;}
