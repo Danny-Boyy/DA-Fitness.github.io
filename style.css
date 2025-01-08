@@ -270,6 +270,7 @@ nav a:hover::before {
 #Lesson-box a{
 	border:2px solid #31c48d;
 	border-radius: 5px;
+	padding:1%;
 	text-decoration: none;
 	font-size: 1.25rem;
 	width:1.5rem;
@@ -305,6 +306,7 @@ nav a:hover::before {
 #Membership-box a{
 	border:2px solid #31c48d;
 	border-radius: 5px;
+	padding:1%;
 	text-decoration: none;
 	font-size: 1.25rem;
 	width:1.5rem;
@@ -340,6 +342,7 @@ nav a:hover::before {
 #PT-box a{
 	border:2px solid #31c48d;
 	border-radius: 5px;
+	padding:1%;
 	text-decoration: none;
 	font-size: 1.25rem;
 	width:1.5rem;
@@ -418,6 +421,7 @@ nav a:hover::before {
 #help-button{
 	border: 0.125rem solid #31c48d;
 	border-radius: 3px;
+	padding:1%;
 	background-color: #31c48d;
 	color: white;
 	width:15%;
