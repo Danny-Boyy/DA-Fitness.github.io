@@ -131,6 +131,22 @@ nav a:hover::before {
     margin-bottom:2%;
 }
 
+.boxes a{
+	border:2px solid #31c48d;
+	border-radius: 5px;
+	text-decoration: none;
+	font-size: 1.25rem;
+	width:1.5rem;
+	background-color: #31c48d;
+	color: white;
+    padding:1%;
+	/* margin-bottom: 8%; */
+	transition: all 0.3s;
+}
+
+.boxes a:hover{background-color: white; color:#31c48d;}
+.boxes a:active{color:black; border:2px solid black;}
+
 #month1{
     background-color: white;
     border: 5px solid #c6efdf;
