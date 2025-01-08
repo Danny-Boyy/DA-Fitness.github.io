@@ -102,7 +102,11 @@ left: 50%;
   background-color: white;
 }
 
-.intro h2,h3{margin:5% 0%;}
+.intro h1{
+  margin-top: 2.5rem;
+}
+
+.intro h2,h3{margin: 2.5rem 0;}
 
 #swim-img{
   width:50%;
