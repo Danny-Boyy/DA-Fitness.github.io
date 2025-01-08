@@ -153,7 +153,7 @@ nav a:hover::before {
 }
 
 #customer-text {
-  text-align: left; /* Align text to the left in the customer text section */
+  text-align: center; /* Align text to the left in the customer text section */
 }
 
 #contact-text {
