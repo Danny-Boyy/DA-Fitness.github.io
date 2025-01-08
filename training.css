@@ -224,6 +224,11 @@ intro h2{margin-top: 3.5rem;}
 
 
 
+.video-row{
+  justify-content: space-evenly;
+}
+
+
 
 
 .footer-box {
