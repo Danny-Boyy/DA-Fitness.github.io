@@ -114,6 +114,7 @@ nav a:hover::before {
     color:white;
     width:95%;
     margin:auto;
+    margin-bottom: 4%;
 }
 
 .boxes {
