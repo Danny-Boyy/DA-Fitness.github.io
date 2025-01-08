@@ -108,6 +108,11 @@ left: 50%;
 
 .intro h2,h3{margin: 2.5rem 0;}
 
+.swimming{
+  display: flex;
+  flex-direction: row;
+}
+
 #swim-img{
   height: 40%;
   width: 50%;
