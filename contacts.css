@@ -154,6 +154,16 @@ center-align: right
   width: 45%;
 }
 
+#customer-text{
+  background-color: white;
+  border: 5px solid #c6efdf;
+  border-radius: 5px;
+  text-align: center;
+  justify-content: center;
+  width: 45%;
+}
+
+
 
 
 
