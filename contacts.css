@@ -139,6 +139,12 @@ nav a:hover::before {
 text-align: left
 }
 
+.right-align {
+contact-text: right
+}
+
+
+
 #customer-text{
   background-color: white;
   border: 5px solid #c6efdf;
