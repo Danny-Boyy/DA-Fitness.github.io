@@ -137,31 +137,37 @@ nav a:hover::before {
 
 .container {
   display: flex; /* Flexbox for side-by-side layout */
-  justify-content: space-between; /* Space between the left and right containers */
+  justify-content: space-between; /* Align the two containers with space between them */
+  width: 100%; /* Ensure the container takes the full width */
+  margin: 0 auto; /* Center the entire container in the middle of the screen */
+  padding: 20px; /* Optional padding around the entire container */
 }
 
 #customer-text, #contact-text {
   background-color: white;
   border: 5px solid #c6efdf;
   border-radius: 5px;
-  width: 45%; /* Adjust to fit the content */
-  text-align: left; /* Align text to the left for both containers */
-  padding: 15px; /* Add padding to ensure the text doesn't touch the edges */
+  width: 45%; /* Adjust width so both containers fit side by side */
+  padding: 15px; /* Add padding for spacing inside the containers */
+  box-sizing: border-box; /* Include padding and border in the element's total width/height */
+}
+
+#customer-text {
+  text-align: left; /* Align text to the left in the customer text section */
 }
 
 #contact-text {
-  text-align: center; /* Center the text inside the contact container */
+  text-align: center; /* Center the text inside the contact text section */
 }
 
 a {
-  color: #31c48d; /* Ensure the link has a color */
-  text-decoration: none; /* Remove the default underline */
+  color: #31c48d; /* Set link color */
+  text-decoration: none; /* Remove underline from links */
 }
 
 a:hover {
-  text-decoration: underline; /* Add underline on hover */
+  text-decoration: underline; /* Add underline to links on hover */
 }
-
 
 
 
