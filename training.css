@@ -96,9 +96,9 @@ width: 100%;
 left: 50%;
 }
 
-.intro{
+.intro h2,h3,h4{
   background-color: white;
-  margin:15% 0%;
+  margin:5% 0%;
 }
 
 
