@@ -136,8 +136,8 @@ nav a:hover::before {
 	transition: all 0.3s;
 }
 
-.boxes a:hover, boxes2 a:hover{background-color: white; color:#31c48d;}
-.boxes a:active, boxes2 a:active{color:black; border:2px solid black;}
+.boxes a:hover, .boxes2 a:hover{background-color: white; color:#31c48d;}
+.boxes a:active, .boxes2 a:active{color:black; border:2px solid black;}
 
 #month1, #month2, #month3, #month4{
     background-color: white;
