@@ -161,7 +161,6 @@ intro h2{margin-top: 3.5rem;}
 }
 
 #swimming-text a:hover{background-color: white; color:#31c48d;}
-
 #swimming-text a:active{color:black; border:2px solid black;}
 
 .gym-row{
@@ -214,6 +213,7 @@ intro h2{margin-top: 3.5rem;}
 }
 
 #gym-text a:hover{background-color: white; color:#31c48d;}
+#gym-text a:active{color:black; border:2px solid black;}
 
 .PT-row{
   display: flex;
@@ -265,6 +265,7 @@ intro h2{margin-top: 3.5rem;}
 }
 
 #PT-text a:hover{background-color: white; color:#31c48d;}
+#PT-text a:active{color:black; border:2px solid black;}
 
 .class-row{
   display: flex;
@@ -316,6 +317,7 @@ intro h2{margin-top: 3.5rem;}
 }
 
 #class-text a:hover{background-color: white; color:#31c48d;}
+#class-text a:active{color:black; border:2px solid black;}
 
 .club-row{
   display: flex;
@@ -367,14 +369,17 @@ intro h2{margin-top: 3.5rem;}
 }
 
 #club-text a:hover{background-color: white; color:#31c48d;}
+#club-text a:active{color:black; border:2px solid black;}
 
 .video-row{
   display: grid;
   text-align: center;
+  color:white;
   margin: 5% 0;
 }
 
 .videos{
+  padding-top:0.188rem;
   background-color: white;
   justify-content: space-evenly;
 }
