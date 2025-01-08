@@ -140,6 +140,28 @@ nav a:hover::before {
 
 .nothing{color:transparent;}
 
+.container1 {
+  display: flex; 
+  justify-content: space-evenly; 
+  width: 100%; 
+  margin: 0 auto; 
+  padding: 20px; 
+}
+
+#findus-text, #accessibility-text {
+  background-color: white;
+  border: 5px solid #c6efdf;
+  border-radius: 5px;
+  width: 45%;
+  padding: 15px;
+  box-sizing: border-box;
+  display: flex; 
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center; 
+  text
+
+
 #findus-text {
 text-align: center;
 }
