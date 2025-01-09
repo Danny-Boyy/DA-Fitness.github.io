@@ -258,7 +258,7 @@ left: 50%;
 
 #Roger-box h2, #Andrea-box h2, #Pavel-box h2{text-decoration: underline;}
 
-#Roger-box h3, #Andrea-box h3, #Pavel-box h3{width:95%;}
+#Roger-box h3, #Andrea-box h3, #Pavel-box h3{width:95%; margin:auto;}
 
 .footer-box {
 	background-color: white;
