@@ -107,13 +107,16 @@ nav a:hover::before {
 .main-container {
   margin: 0 auto; 
   padding: 20px; 
-}
-
-.row1, .row2{
   display: flex; 
   justify-content: space-evenly; 
   width: 100%; 
 }
+
+/* .row1, .row2{
+  display: flex; 
+  justify-content: space-evenly; 
+  width: 100%; 
+} */
 
 #findus-text, #accessibility-text {
   background-color: white;
