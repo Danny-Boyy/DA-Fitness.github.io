@@ -180,9 +180,12 @@ left: 50%;
 
 
 #talkbubble {
-  width: 40%; /*120*/
-  height: 30%; /*80*/
-  background: #c6efdf;
+  float:right;
+  text-align: center;
+  color:white;
+  width: 35%; /*120*/
+  height: 32%; /*80*/
+  background: #31c48d;
   position: relative;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -202,10 +205,21 @@ left: 50%;
 }
 
 .find-us{
+  font-size: medium;
   margin:2% 0;
   color: white;
   text-align: center;
+}
+
+.find-us a{
+  color:#c6efdf;
   text-decoration: none;
+}
+
+.find-us a:hover{
+  color: white;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 .client-box{
