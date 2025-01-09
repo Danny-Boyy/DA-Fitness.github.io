@@ -180,7 +180,7 @@ nav a:hover::before {
 }
 
 
-#leisure-text {
+/* #leisure-text {
   background-color: white;
   border: 5px solid #c6efdf;
   border-radius: 5px;
@@ -191,7 +191,7 @@ nav a:hover::before {
   flex-direction: column; 
   justify-content: left; 
   align-items: left; 
-}
+} */
 
 
 
