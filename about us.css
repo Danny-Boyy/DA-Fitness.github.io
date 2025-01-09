@@ -128,6 +128,7 @@ left: 50%;
 }
 
 #welcoming, #supportive{
+  width:40%;
   justify-content: center;
   color: white;
   text-align: center;
@@ -137,7 +138,7 @@ left: 50%;
   border: 5px solid #c6efdf;
   border-radius: 5px;
   margin-bottom: 2%;
-  width:40%
+  /* width:40% */
 }
 
 #row2 {
