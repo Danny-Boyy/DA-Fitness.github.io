@@ -113,7 +113,7 @@ nav a:hover::before {
 }
 
 .row1, .row2{
-  /* display: flex;  */
+  display: flex; 
   justify-content: space-evenly; 
   width: 100%; 
 }
