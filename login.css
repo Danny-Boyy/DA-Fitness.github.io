@@ -110,7 +110,6 @@ nav a:hover::before {
   border-radius: 8px;
   width:40%;
   justify-content: center;
-  margin-bottom: 2%;
   flex-direction: column;
   font-size: large;
 }
