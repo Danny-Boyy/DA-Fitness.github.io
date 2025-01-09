@@ -174,11 +174,12 @@ nav a:hover::before {
 
 #yearly p, #student p, #day p, #family p{text-align: center;}
 
+#help{display:grid; margin: 3% 0;}
+
 #further-help{
     text-align: center;
     color:white;
     text-decoration: none;
-    margin-bottom: 4% 0;
 }
 
 #further-help a{
