@@ -97,24 +97,66 @@ nav a:hover::before {
 
 #current {color:#446053}
 
-
-
-
-
-
-password {
+/* password {
     display: flex;
     justify-content: center;
     align-items: flex-start; 
     margin: 0;
+} */
+
+.account-container{
+    margin:5% auto;
+    background-color: #c6efdf;
+    padding: 0.625rem;
+    border-radius: 8px;
+    width:40%;
+    justify-content: center;
+    flex-direction: column;
+    font-size: large;
 }
+  
+.account-container h2{text-align: center;}
 
-
-
-
-
-
-
+.account-container p,.account-container h2{text-align: center;}
+  
+.account-container a{
+    text-decoration: none;
+    color: #446053;
+    transition: all 0.3s;
+}
+  
+.account-container a:hover{
+    color: #31c48d; 
+    text-decoration: underline; 
+    font-weight: bold;
+}
+  
+#account-form{
+    margin: 3% auto;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    border: 2px solid #31c48d;
+    padding: 0.938rem;
+    border-radius: 8px;
+    width: 80%;
+}
+  
+#account-form label{width:90%; margin:2% auto;}
+  
+#account-form input{width:95%; margin:2% auto;}
+  
+  /* #login-form a{margin-left:65%;} */
+  
+#account-button{
+    width:80%;
+    margin-top:5%;
+    justify-content: center;
+    background-color: #31c48d;
+    color: white;
+    border: 3px solid #31c48d;
+    border-radius: 5px;
+}
 
 .footer-box {
 	background-color: white;
