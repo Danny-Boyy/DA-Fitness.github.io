@@ -161,17 +161,16 @@ nav a:hover::before {
 
 
 
+.leisure-container {
+  display: flex;
+  align-items: flex-start;
+}
+
 .leisure-images {
   margin-right: 20px;
 }
 
-.leisure-text {
-  max-width: 600px;
-}
-
-
-
-#leisure-text{
+#leisure-text {
   background-color: white;
   border: 5px solid #c6efdf;
   border-radius: 5px;
@@ -180,11 +179,16 @@ nav a:hover::before {
   width: 45%;
 }
 
-#leisure-text h2{color: #31c48d;}
+#leisure-text h3 {
+  color: #31c48d;
+}
 
-#leisure-text p{width:95%; margin:auto;}
+#leisure-text p {
+  width: 95%;
+  margin: auto;
+}
 
-#leisure-text table{
+#leisure-text table {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
@@ -193,21 +197,28 @@ nav a:hover::before {
   margin-bottom: 7%;
 }
 
-#leisure-text a{
-	border:2px solid #31c48d;
-	border-radius: 5px;
-	text-decoration: none;
-	font-size: 1.25rem;
-	width:1.5rem;
-	background-color: #31c48d;
-	color: white;
-  padding:1%;
-	margin-bottom: 8%;
-	transition: all 0.3s;
+#leisure-text a {
+  border: 2px solid #31c48d;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 1.25rem;
+  width: 1.5rem;
+  background-color: #31c48d;
+  color: white;
+  padding: 1%;
+  margin-bottom: 8%;
+  transition: all 0.3s;
 }
 
-#leisure-text a:hover{background-color: white; color:#31c48d;}
-#leisure-text a:active{color:black; border:2px solid black;}
+#leisure-text a:hover {
+  background-color: white;
+  color: #31c48d;
+}
+
+#leisure-text a:active {
+  color: black;
+  border: 2px solid black;
+}
 
 
 
