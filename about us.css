@@ -223,13 +223,7 @@ left: 50%;
   font-weight: bold;
 }
 
-.client-box{
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  margin: 3% 0;
-  justify-content: space-evenly;
-}
+.client-box{margin: 3% 0;}
 
 #client-head{
   text-align: center;
@@ -238,6 +232,11 @@ left: 50%;
   color:white
 }
 
+#client-row{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
 
 
 
