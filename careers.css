@@ -97,6 +97,10 @@ nav a:hover::before {
 
 #current {color:#446053}
 
+.introduction {
+  text-align: center;
+  color: white;
+}
 
 .leisure-container {
   display: flex;
@@ -146,11 +150,6 @@ button:active {
   color: black;
   background-color: #e0e0e0;
   border: 2px solid black;
-}
-
-.introduction {
-    text-align: center;
-    color: white;
 }
 
 .footer-box {
