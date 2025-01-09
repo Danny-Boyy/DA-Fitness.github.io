@@ -178,11 +178,12 @@ left: 50%;
 .signup-box h3{
   text-align: center;
   width: 40%;
+  margin-left:10%;
 }
 
 
 #talkbubble {
-  float:right;
+  flex-direction: row-reverse;
   text-align: center;
   color:white;
   width: 35%; /*120*/
