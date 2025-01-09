@@ -162,6 +162,22 @@ nav a:hover::before {
 
 
 
+.leisure-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.leisure-images {
+  margin-right: 20px;
+}
+
+.leisure-text {
+  max-width: 600px;
+}
+
+
+
+
 
 
 
