@@ -97,7 +97,11 @@ left: 50%;
 
 #current {color:#446053}
 
-
+.intro-box {
+  display:grid;
+  color:white;
+  margin: 4% 0;
+}
 
 
 
