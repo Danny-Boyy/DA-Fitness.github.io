@@ -149,7 +149,7 @@ nav a:hover::before {
 .leisure-images{
   border: 5px solid #c6efdf;
   border-radius: 5px;
-  margin-top:5%;
+  margin-top:7%;
   margin-right: 1%;
 }
 
@@ -176,7 +176,6 @@ nav a:hover::before {
   color: #31c48d;
   transition: all 0.3s;
 }
-
 
 #leisure-text a:hover{
   text-decoration: underline;
