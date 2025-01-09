@@ -108,7 +108,6 @@ nav a:hover::before {
   background-color: #c6efdf;
   padding: 0.625rem;
   border-radius: 8px;
-  display:flex;
   width:40%;
   justify-content: center;
   margin: 0 auto;
@@ -122,11 +121,8 @@ nav a:hover::before {
 
 .login-container p,.login-container h2{text-align: center;}
 
-
-
 #login-form{
-  margin: 3% 30%;
-  display:flex;
+  margin: 3% auto;
   flex-direction: column;
   background-color: white;
   border: 2px solid #31c48d;
@@ -136,9 +132,11 @@ nav a:hover::before {
   width: 80%;
 }
 
-#login-form label{width:90%; margin:2% 0; margin:auto;}
+#login-form label{width:90%; margin:2% auto;}
 
-#login-form input{width:95%; margin:2% 0; margin:auto;}
+#login-form input{width:95%; margin:2% auto;}
+
+#login-form a{margin-left:95%;}
 
 #login-button{
   width:80%;
