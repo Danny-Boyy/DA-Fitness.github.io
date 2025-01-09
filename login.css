@@ -135,9 +135,9 @@ nav a:hover::before {
   width: 80%;
 }
 
-#login-form label{width:90%; margin:2% auto;}
+#login-form label{width:90%; margin:3% auto;}
 
-#login-form input{width:95%; margin:2% auto;}
+#login-form input{width:95%; margin:3% auto;}
 
 #login-form a{margin-left:65%;}
 
