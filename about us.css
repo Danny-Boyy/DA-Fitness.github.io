@@ -173,17 +173,16 @@ left: 50%;
   display: flex;
   flex-direction: row;
   width: 100%;
+  justify-content: space-evenly;
 }
 
 .signup-box h3{
   text-align: center;
   width: 40%;
-  margin-left:10%;
 }
 
 
 #talkbubble {
-  flex-direction: row-reverse;
   text-align: center;
   color:white;
   width: 35%; /*120*/
@@ -231,7 +230,8 @@ left: 50%;
   text-align: center;
   display: grid;
   width: 100%;
-  color:white
+  color:white;
+  margin-bottom: 2%;
 }
 
 #client-row{
