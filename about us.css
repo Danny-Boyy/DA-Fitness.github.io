@@ -166,7 +166,8 @@ left: 50%;
   color: #31c48d;
   margin:2% 0;
   padding:4% 0;
-  display: grid;
+  display: flex;
+  flex-direction: row;
   width: 100%;
 }
 
