@@ -129,6 +129,19 @@ nav a:hover::before {
   width: 80%;
 }
 
+#login-form label{width:100%;}
+
+#login-form input{width:90%;}
+
+#login-button{
+  width:80%;
+  background-color: #31c48d;
+  color: white;
+  border: 3px solid #31c48d;
+  border-radius: 5px;
+}
+
+
 /* .account{
   color: white;
   text-align: center;
