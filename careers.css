@@ -98,7 +98,46 @@ nav a:hover::before {
 #current {color:#446053}
 
 
+.job-openings {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 30px;
+}
 
+.job-listing {
+    background-color: white;
+    border: 2px solid #31c48d;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.job-listing h4 {
+    color: #31c48d;
+}
+
+button {
+    background-color: #31c48d;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: white;
+    color: #31c48d;
+    border: 2px solid #31c48d;
+}
+
+button:active {
+    color: black;
+    background-color: #e0e0e0;
+    border: 2px solid black;
+}
 
 
 
