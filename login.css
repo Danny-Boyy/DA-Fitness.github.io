@@ -124,7 +124,23 @@ nav a:hover::before {
   border-radius: 8px;
 }
 
+.account{
+  color: white;
+  text-align: center;
+  margin: 2% 0;
+}
 
+.account a{
+  text-decoration: none;
+  color: white;
+  transition: all 0.3s;
+}
+
+.account a:hover{
+  color: #c6efdf; 
+  text-decoration: underline; 
+  font-weight: bold;
+}
 
 /* .leisure-container {
   display: flex;
