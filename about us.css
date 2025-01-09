@@ -128,7 +128,6 @@ left: 50%;
 }
 
 #welcoming, #supportive{
-  width:50%;
   justify-content: center;
   color: white;
   text-align: center;
