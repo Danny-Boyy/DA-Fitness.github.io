@@ -135,7 +135,7 @@ nav a:hover::before {
 
 #accessibility-text {text-align: center;}
 
-.leisure-container {
+.leisure-container{
   display: flex;
   align-items: flex-start;
   justify-content: center;
