@@ -144,10 +144,10 @@ nav a:hover::before {
 }
 
 .leisure-images{
-  border: 5px solid #c6efdf;
-  border-radius: 5px;
-  margin-top:2%;
-  margin-right: 3%;
+  /* border: 5px solid #c6efdf; */
+  /* border-radius: 5px; */
+  /* margin-top:2%; */
+  margin-right: 20px;
 }
 
 #leisure-text {
