@@ -159,6 +159,27 @@ left: 50%;
   margin-bottom: 2%;
 }
 
+.signup-box{
+  margin:2% 0;
+  padding:4% 0;
+  display: grid;
+  width: 100%;
+}
+
+.findus{
+  margin:2% 0;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+.client-box{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 2% 0;
+}
+
 
 
 
