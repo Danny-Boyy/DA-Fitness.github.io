@@ -107,6 +107,7 @@ nav a:hover::before {
   align-items: flex-start;
   justify-content: center;
   margin: 0 auto;
+  margin-bottom: 5%;
   width: 80%;
 }
 
