@@ -248,13 +248,12 @@ left: 50%;
   text-align: center;
   border: 3px solid #c6efdf;
   border-radius: 5px;
-  width:25%;
+  width:22%;
 }
 
 #Roger, #Andrea, #Pavel{
   border-radius: 5px;
   width:fit-content
-  /* margin-bottom: 2%; */
 }
 
 #Roger-box h2, #Andrea-box h2, #Pavel-box h2{text-decoration: underline;}
