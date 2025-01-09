@@ -184,10 +184,11 @@ nav a:hover::before {
 
 #further-help a{
     color:#c6efdf;
+    text-decoration: none;
     transition: all 0.3s;
 }
 
-#further-help a:hover{text-decoration: underline;}
+#further-help a:hover{color:white; font-weight:bold; text-decoration: underline;}
 
 .nothing {color:transparent;}
 
