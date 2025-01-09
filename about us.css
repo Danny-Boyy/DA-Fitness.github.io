@@ -240,6 +240,21 @@ left: 50%;
   justify-content: space-evenly;
 }
 
+#Roger-box, #Andrea-box, #Pavel-box{
+  background-color: white;
+  color: #31c48d;
+  justify-content: center;
+  text-align: center;
+  border: 3px solid #c6efdf;
+  border-radius: 5px;
+}
+
+
+
+
+
+
+
 
 
 .footer-box {
