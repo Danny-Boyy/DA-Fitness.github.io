@@ -110,11 +110,7 @@ left: 50%;
   margin:auto;
 }
 
-/* .about-box{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-} */
+.about-box{margin-top:3%;}
 
 #about-head{
   background-color: white;
