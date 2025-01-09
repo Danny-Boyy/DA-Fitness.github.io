@@ -127,15 +127,17 @@ left: 50%;
 }
 
 #welcoming, #supportive{
-  width:60%;
+  width:50%;
   justify-content: center;
   color: white;
+  text-align: center;
 }
 
 #welcoming-img, #supportive-img{
   border: 5px solid #c6efdf;
   border-radius: 5px;
   margin-bottom: 2%;
+  width:40%
 }
 
 #row2 {
