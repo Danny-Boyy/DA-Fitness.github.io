@@ -97,11 +97,11 @@ nav a:hover::before {
 
 #current {color:#446053}
 
-.headers {
+/* .headers {
   color:white; 
   text-align: center;
   margin: 2% 0;
-}
+} */
 
 .login-container{
   background-color: #c6efdf;
@@ -125,7 +125,7 @@ nav a:hover::before {
   width: 80%;
 }
 
-.account{
+/* .account{
   color: white;
   text-align: center;
   margin-top:2%;
@@ -142,7 +142,7 @@ nav a:hover::before {
   color: white; 
   text-decoration: underline; 
   font-weight: bold;
-}
+} */
 
 /* .leisure-container {
   display: flex;
