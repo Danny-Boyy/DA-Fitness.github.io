@@ -251,18 +251,11 @@ left: 50%;
   width:25%;
 }
 
-#Roger-img, #Andrea-img, #Pavel-img{
+#Roger, #Andrea, #Pavel{
   border-radius: 5px;
+  max-width: fit-content;
   /* margin-bottom: 2%; */
 }
-
-
-
-
-
-
-
-
 
 .footer-box {
 	background-color: white;
