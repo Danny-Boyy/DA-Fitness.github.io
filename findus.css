@@ -171,6 +171,19 @@ nav a:hover::before {
   margin: auto;
 }
 
+#leisure-text a {
+  text-decoration: none;
+  color: #31c48d;
+  transition: all 0.3s;
+}
+
+
+#leisure-text a:hover{
+  text-decoration: underline;
+  color: #446053;
+  font-weight: bold;
+}
+
 #leisure-text table {
   margin-left: auto;
   margin-right: auto;
