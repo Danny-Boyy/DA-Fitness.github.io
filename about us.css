@@ -182,7 +182,6 @@ left: 50%;
   width: 40%;
 }
 
-
 #talkbubble {
   text-align: center;
   color:white;
@@ -217,6 +216,7 @@ left: 50%;
 .find-us a{
   color:#c6efdf;
   text-decoration: none;
+  transition: all 0.3s;
 }
 
 .find-us a:hover{
