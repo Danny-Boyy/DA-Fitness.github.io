@@ -257,6 +257,8 @@ left: 50%;
   /* margin-bottom: 2%; */
 }
 
+#Roger-box h2, #Andrea-box h2, #Pavel-box h2{text-decoration: underline;}
+
 #Roger-box h3, #Andrea-box h3, #Pavel-box h3{width:95%;}
 
 .footer-box {
