@@ -132,12 +132,14 @@ left: 50%;
   justify-content: center;
   color: white;
   text-align: center;
+  margin:2% 0;
 }
 
 #welcoming-img, #supportive-img{
   border: 5px solid #c6efdf;
   border-radius: 5px;
   margin-bottom: 2%;
+  height: 90%;
   /* width:40% */
 }
 
