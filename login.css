@@ -120,7 +120,7 @@ nav a:hover::before {
 .login-container h2{text-align: center;}
 
 #login-form{
-  margin: 0 auto;
+  margin: 3% auto;
   display:flex;
   flex-direction: column;
   background-color: white;
@@ -131,7 +131,7 @@ nav a:hover::before {
   width: 80%;
 }
 
-#login-form label{width:100%; margin:2% 0;}
+#login-form label{width:90%; margin:2% 0; margin:auto;}
 
 #login-form input{width:90%; margin:2% 0; margin:auto;}
 
