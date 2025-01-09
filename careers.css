@@ -120,6 +120,8 @@ nav a:hover::before {
   width: 100%;
 }
 
+#job-openings h2, #job-openings h3, #job-openings p{color:white;}
+
 .job-listing {
   background-color: white;
   border: 2px solid #31c48d;
