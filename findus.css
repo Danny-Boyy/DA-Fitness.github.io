@@ -226,6 +226,13 @@ nav a:hover::before {
 
 
 
+.introduction h1, introduction h2, introduction h3 {
+	color: white;
+}
+
+
+
+
 
 
 
