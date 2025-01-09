@@ -123,7 +123,7 @@ nav a:hover::before {
 .login-container a{text-align: center;}
 
 #login-form{
-  margin: 3% 30%;
+  margin: 3% auto;
   flex-direction: column;
   background-color: white;
   border: 2px solid #31c48d;
