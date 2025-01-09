@@ -160,6 +160,7 @@ nav a:hover::before {
   text-align: center;
   justify-content: center;
   width: 70%;
+  margin-right: 1%;
 }
 
 #leisure-text h3 {
