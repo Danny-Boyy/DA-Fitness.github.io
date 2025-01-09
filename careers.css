@@ -148,11 +148,16 @@ button:active {
   border: 2px solid black;
 }
 
-.introduction h1, .introduction h2, .introduction h3 {
-  color: white;
+
+.introduction {
+    text-align: center; /* Centers the text */
+    color: white; /* Sets the text color to white */
+    display: flex; /* Enables flexbox */
+    flex-direction: column; /* Ensures the text stacks vertically */
+    justify-content: center; /* Centers the text vertically */
+    align-items: center; /* Centers the text horizontally */
+    height: 100vh; /* Makes the container fill the entire height of the viewport */
 }
-
-
 
 
 
