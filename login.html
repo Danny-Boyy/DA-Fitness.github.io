@@ -39,37 +39,31 @@
 
         <a href="index.html">Return to the main page</a>
 
-        <div>
+        <main>
 
-            <form>
+            <div id="login-form">
+                <form>
 
-                <label>Username or email address</label>
-            
-                <input type="text" name="username" placeholder="Enter a valid Username or Email adddress" required>
-            
-                <label>Password</label>
-            
-                <input type="password" name="password" placeholder="Enter a valid password" required>
-            
-                <!--Going to create an if statement that checks whether the username box contains an @ and it'll then change it to a
-                type=email-->
-            
-            </form>
-
-        </div>
-
-
-        <p>Or Create an account if you haven't already</p>
-        <div>
-
-            <nav>    
+                    <label for="email">EMAIL ADDRESS</label>
                 
+                    <input type="email" name="email" placeholder="Enter a valid Username or Email adddress" required>
+                
+                    <label for="password">PASSWORD</label>
+                
+                    <input type="password" name="password" placeholder="Enter a valid password" required>
+                
+                </form>
+            </div>
+
+            <div id="account">
+
+                <p>Or Create an account if you haven't already</p>
+                        
                 <a href="account.html">Create an Account</a> <!--After the user clicks on Create and Account, they will be prompted to account.html'-->
-                
-            
-            </nav>
 
-        </div>
+            </div>
+
+        </main>
 
         <footer class="footer-box">
 

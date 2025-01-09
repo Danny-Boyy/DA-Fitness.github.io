@@ -103,7 +103,34 @@ nav a:hover::before {
 
 
 
+/* .leisure-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 5%;
+  width: 80%;
+}
 
+#job-openings {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 30px;
+  width: 100%;
+}
+
+.job-listing {
+  background-color: white;
+  border: 2px solid #31c48d;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.job-listing h4 {
+  color: #31c48d;
+} */
 
 
 
