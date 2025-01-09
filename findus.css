@@ -200,10 +200,6 @@ nav a:hover::before {
   border: 2px solid black;
 }
 
-
-
-
-
 .footer-box {
 	background-color: white;
 	border: 0.063rem solid #ccc;
