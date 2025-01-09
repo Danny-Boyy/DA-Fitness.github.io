@@ -203,7 +203,7 @@ left: 50%;
   width: 0;
   height: 0;
   border-top: 13px solid transparent;
-  border-right: 26px solid red;
+  border-right: 26px solid #31c48d;
   border-bottom: 13px solid transparent;
 }
 
