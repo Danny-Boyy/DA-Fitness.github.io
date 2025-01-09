@@ -105,18 +105,18 @@ nav a:hover::before {
 .headers{color:white;}
 
 .main-container {
-  margin: 0 auto; 
+  /* margin: 0 auto;  */
   padding: 20px; 
-  display: flex; 
+  /* display: flex;  */
   /* justify-content: space-evenly;  */
-  width: 100%; 
+  /* width: 100%;  */
 }
 
-/* .row1, .row2{
-  display: flex; 
+.row1, .row2{
+  /* display: flex;  */
   justify-content: space-evenly; 
   width: 100%; 
-} */
+}
 
 #findus-text, #accessibility-text {
   background-color: white;
@@ -144,9 +144,9 @@ nav a:hover::before {
 }
 
 .leisure-images{
-  /* border: 5px solid #c6efdf; */
-  /* border-radius: 5px; */
-  /* margin-top:2%; */
+  border: 5px solid #c6efdf;
+  border-radius: 5px;
+  margin-top:2%;
   margin-right: 20px;
 }
 
