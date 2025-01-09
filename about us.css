@@ -250,6 +250,11 @@ left: 50%;
   border-radius: 5px;
 }
 
+#Roger-img, #Andrea-img, #Pavel-img{
+  border-radius: 5px;
+  /* margin-bottom: 2%; */
+}
+
 
 
 
