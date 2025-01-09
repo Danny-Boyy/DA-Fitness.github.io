@@ -104,7 +104,7 @@ nav a:hover::before {
 } */
 
 .login-container{
-  margin:10% auto;
+  margin:10% 0;
   background-color: #c6efdf;
   padding: 0.625rem;
   border-radius: 8px;
