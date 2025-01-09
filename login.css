@@ -122,12 +122,12 @@ nav a:hover::before {
 
 .login-container a{
   text-decoration: none;
-  color:#c6efdf;
+  color: #446053;
   transition: all 0.3s;
 }
 
 .login-container a:hover{
-  color: white; 
+  color: #31c48d; 
   text-decoration: underline; 
   font-weight: bold;
 }
