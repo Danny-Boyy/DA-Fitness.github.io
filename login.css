@@ -97,12 +97,6 @@ nav a:hover::before {
 
 #current {color:#446053}
 
-/* .headers {
-  color:white; 
-  text-align: center;
-  margin: 2% 0;
-} */
-
 .login-container{
   margin:5% auto;
   background-color: #c6efdf;
@@ -150,18 +144,12 @@ nav a:hover::before {
 #login-button{
   width:80%;
   margin-top:5%;
-  /* margin-left: auto;
-  margin-right: auto; */
   justify-content: center;
   background-color: #31c48d;
   color: white;
   border: 3px solid #31c48d;
   border-radius: 5px;
 }
-
-
-
-
 
 .footer-box {
 	background-color: white;
