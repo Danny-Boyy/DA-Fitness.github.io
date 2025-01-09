@@ -120,7 +120,17 @@ nav a:hover::before {
 
 .login-container p,.login-container h2{text-align: center;}
 
-.login-container a{text-align: center;}
+.login-container a{
+  text-decoration: none;
+  color:#c6efdf;
+  transition: all 0.3s;
+}
+
+.login-container a:hover{
+  color: white; 
+  text-decoration: underline; 
+  font-weight: bold;
+}
 
 #login-form{
   margin: 3% auto;
