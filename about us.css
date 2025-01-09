@@ -226,7 +226,15 @@ left: 50%;
   display: flex;
   flex-direction: row;
   width: 100%;
-  margin: 2% 0;
+  margin: 3% 0;
+  justify-content: space-evenly;
+}
+
+#client-head{
+  text-align: center;
+  display: grid;
+  width: 100%;
+  color:white
 }
 
 
